@@ -1,22 +1,17 @@
 $breakpoints: (
-  xs: (
-    min-width: 0px,
+  xs: (min-width: 0px,
     max-width: 600px,
   ),
-  sm: (
-    min-width: 600px,
+  sm: (min-width: 600px,
     max-width: 960px,
   ),
-  md: (
-    min-width: 960px,
+  md: (min-width: 960px,
     max-width: 1264px,
   ),
-  lg: (
-    min-width: 1264px,
+  lg: (min-width: 1264px,
     max-width: 1904px,
   ),
-  xl: (
-    min-width: 1904px,
+  xl: (min-width: 1904px,
   ),
 );
 
@@ -34,13 +29,17 @@ $coordsArray: (
 }
 
 @mixin set-coordinates($defaultProp, $coordinate, $size) {
-  @if $coordinate == 'y' {
+  @if $coordinate =='y' {
     #{$defaultProp}-top: spacing($size);
     #{$defaultProp}-bottom: spacing($size);
-  } @else if $coordinate == 'x' {
+  }
+
+  @else if $coordinate =='x' {
     #{$defaultProp}-left: spacing($size);
     #{$defaultProp}-right: spacing($size);
-  } @else {
+  }
+
+  @else {
     #{$defaultProp}-#{$coordinate}: spacing($size);
   }
 }
@@ -49,12 +48,15 @@ $coordsArray: (
 @mixin class-by-prop($defaultProp, $propName, $useCoords) {
   // Define the maximum iteration value
   $max-iteration: 64;
-// Loop through the sizes from 0 to the maximum iteration
+
+  // Loop through the sizes from 0 to the maximum iteration
   @for $size from 0 through $max-iteration {
+
     // Generate a base class for the given property and size
     .#{$propName}-#{$size} {
       #{$defaultProp}: spacing($size);
     }
+
     // If useCoords is true, generate classes with different coordinates
     @if $useCoords {
       @each $keyCoordinate, $coordinate in $coordsArray {
@@ -64,16 +66,20 @@ $coordsArray: (
       }
     }
   }
+
   // Loop through the breakpoints and generate media queries
   @each $keyBreakpoint, $media-query in $breakpoints {
+
     // Check if it's not the 'xl' breakpoint
-    @if $keyBreakpoint != 'xl' {
+    @if $keyBreakpoint !='xl' {
       @media (min-width: #{map-get($media-query, min-width)}) and (max-width: #{map-get($media-query, max-width)}) {
+
         // Loop through the sizes again and generate classes for the current breakpoint
         @for $size from 0 through $max-iteration {
           .#{$propName}-#{$keyBreakpoint}-#{$size} {
             #{$defaultProp}: spacing($size);
           }
+
           // If useCoords is true, generate classes with different coordinates for the current breakpoint
           @if $useCoords {
             @each $keyCoordinate, $coordinate in $coordsArray {
@@ -84,14 +90,19 @@ $coordsArray: (
           }
         }
       }
-    } @else {
+    }
+
+    @else {
+
       // For 'xl' breakpoint (no max-width specified), generate classes without a max-width condition
       @media (min-width: #{map-get($media-query, min-width)}) {
+
         // Loop through the sizes again and generate classes for the 'xl' breakpoint
         @for $size from 0 through $max-iteration {
           .#{$propName}-#{$keyBreakpoint}-#{$size} {
             #{$defaultProp}: spacing($size);
           }
+
           // If useCoords is true, generate classes with different coordinates for the 'xl' breakpoint
           @if $useCoords {
             @each $keyCoordinate, $coordinate in $coordsArray {
@@ -103,13 +114,16 @@ $coordsArray: (
         }
       }
     }
+
     // Apply media queries for sm-up breakpoint and up
     @media (min-width: #{map-get($media-query, min-width)}) {
+
       // Loop through the sizes again and generate classes for the 'sm-up' breakpoint
       @for $size from 0 through $max-iteration {
         .#{$propName}-#{$keyBreakpoint}-up-#{$size} {
           #{$defaultProp}: spacing($size);
         }
+
         // If useCoords is true, generate classes with different coordinates for the 'sm-up' breakpoint
         @if $useCoords {
           @each $keyCoordinate, $coordinate in $coordsArray {
@@ -136,4 +150,16 @@ $coordsArray: (
 
 .bg-primary {
   background: #92beff;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.ta-center {
+  text-align: center;
 }

@@ -1,12 +1,12 @@
 <template>
-  <div>
+  <div class="main">
     <div class="header px-4 pr-6 pt-6 pb-2">
       <nuxt-link :to="localePath('/')">
         <h1 class="text-bold fs-10 fs-md-up-12 mb-6"> Tristan Schulze </h1>
       </nuxt-link>
-      <div class="menu__container mb-1">
+      <div class="menu mb-1">
         <div class="menu__navigation">
-          <nuxt-link v-for="mi in menuItems" class="menu__item mr-6 fs-4 fs-md-up-5" :to="localePath(mi.path)">{{mi.text}}</nuxt-link>
+          <nuxt-link v-for="mi in menuItems" class="menu__item mr-6 mr-md-up-8 fs-4 fs-md-up-5" :to="localePath(mi.path)">{{mi.text}}</nuxt-link>
         </div>
         <div class="menu__language fs-4 fs-md-up-5">
           <nuxt-link :to="switchLocalePath('de')">DE</nuxt-link>
@@ -15,9 +15,12 @@
         </div>
       </div>
     </div>
-    <div class="content bg-primary">
-      {{}}
+    <div class="page">
       <slot />
+    </div>
+    <div class="footer px-6 py-4">
+      <nuxt-link :to="localePath('/imprint')">Imprint</nuxt-link>
+      <div>Copyright Tristan Schulze 2024</div>
     </div>
   </div>
 </template>
@@ -27,7 +30,7 @@ const switchLocalePath = useSwitchLocalePath();
 const localePath = useLocalePath();
 
 const menuItems = ref([
-  {text: 'NEWS&CONCERTS', path: '/concerts/'}, 
+  {text: 'NEWS&CONCERTS', path: '/concerts/upcoming/'}, 
   {text: 'ABOUT', path: '/about/'}, 
   {text: 'COMPOSITIONS', path: '/compositions/'},
   {text: 'PHOTOS', path: '/photos/'},
@@ -36,11 +39,15 @@ const menuItems = ref([
 </script>
 
 <style lang="scss">
-.menu__container {
+.main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.menu {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
- 
 }
 .menu__navigation {
   display: flex;
@@ -66,8 +73,20 @@ const menuItems = ref([
   }
 
 }
-.content {
-  z-index: -10;
-  min-height: calc(100vh - 200px);
+
+.page {
+  display: flex;
+  flex-grow: 1;
+  flex-shrink: 0;
+  position: relative;
+  width: 100%;
+}
+
+.footer {
+  border-top: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 </style>

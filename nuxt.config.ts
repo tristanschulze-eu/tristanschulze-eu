@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   routeRules: {
     '/**': { prerender: true },
   },
-  css: ["@/assets/scss/fonts.scss", "@/assets/scss/utils.scss"],
+  css: ["@/assets/scss/main.scss", "@/assets/scss/utils.scss"],
   compatibilityDate: '2024-09-15',
   content: {
     documentDriven: true,
