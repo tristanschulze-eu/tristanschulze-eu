@@ -30,7 +30,7 @@ $coordsArray: (
 );
 
 @function spacing($unit) {
-  @return calc(#{$unit} * 0.5rem);
+  @return calc(#{$unit} * 0.25rem);
 }
 
 @mixin set-coordinates($defaultProp, $coordinate, $size) {
@@ -133,3 +133,7 @@ $coordsArray: (
 
 // Generate font-size classes with comments
 @include class-by-prop('font-size', 'fs', false);
+
+.bg-primary {
+  background: #92beff;
+}
