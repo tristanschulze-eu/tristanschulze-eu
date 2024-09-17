@@ -22,3 +22,27 @@ h5 {
     margin: 0;
     padding: 0;
 }
+
+ 
+a {
+  color: black
+}
+a.router-link {
+  text-decoration: none;
+}
+a.router-link-active {
+  text-decoration: underline;
+  color: black
+}
+
+.bg-primary {
+  background: #92beff;
+  color: black;
+}
+.bg-secondary {
+  background: #003b95;
+  color: white;
+  a, a.router-link-active {
+    color: white
+  }
+}

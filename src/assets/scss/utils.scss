@@ -16,6 +16,7 @@ $breakpoints: (
 );
 
 $coordsArray: (
+  a: all,
   y: y,
   x: x,
   r: right,
@@ -29,6 +30,13 @@ $coordsArray: (
 }
 
 @mixin set-coordinates($defaultProp, $coordinate, $size) {
+  @if $coordinate == 'all' {
+    #{$defaultProp}-top: spacing($size);
+    #{$defaultProp}-bottom: spacing($size);
+    #{$defaultProp}-left: spacing($size);
+    #{$defaultProp}-right: spacing($size);
+  }
+
   @if $coordinate =='y' {
     #{$defaultProp}-top: spacing($size);
     #{$defaultProp}-bottom: spacing($size);
@@ -148,9 +156,6 @@ $coordsArray: (
 // Generate font-size classes with comments
 @include class-by-prop('font-size', 'fs', false);
 
-.bg-primary {
-  background: #92beff;
-}
 
 .w-100 {
   width: 100%;
@@ -158,6 +163,14 @@ $coordsArray: (
 
 .h-100 {
   height: 100%;
+}
+
+.mw-100 {
+  min-width: 100%;
+}
+
+.mh-100 {
+  min-height: 100%;
 }
 
 .ta-center {

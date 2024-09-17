@@ -1,17 +1,17 @@
 <template>
   <div class="main">
     <div class="header px-4 pr-6 pt-6 pb-2">
-      <nuxt-link :to="localePath('/')">
+      <nuxt-link class="router-link" :to="localePath('/')">
         <h1 class="text-bold fs-10 fs-md-up-12 mb-6"> Tristan Schulze </h1>
       </nuxt-link>
       <div class="menu mb-1">
         <div class="menu__navigation">
-          <nuxt-link v-for="mi in menuItems" class="menu__item mr-6 mr-md-up-8 fs-4 fs-md-up-5" :to="localePath(mi.path)">{{mi.text}}</nuxt-link>
+          <nuxt-link v-for="mi in menuItems" class="router-link mr-6 mr-md-up-8 fs-4 fs-md-up-5" :to="localePath(mi.path)" :exact="mi.exact">{{mi.text}}</nuxt-link>
         </div>
         <div class="menu__language fs-4 fs-md-up-5">
-          <nuxt-link :to="switchLocalePath('de')">DE</nuxt-link>
+          <nuxt-link class="router-link" :to="switchLocalePath('de')">DE</nuxt-link>
           |
-          <nuxt-link :to="switchLocalePath('en')">EN</nuxt-link>
+          <nuxt-link class="router-link" :to="switchLocalePath('en')">EN</nuxt-link>
         </div>
       </div>
     </div>
@@ -30,7 +30,7 @@ const switchLocalePath = useSwitchLocalePath();
 const localePath = useLocalePath();
 
 const menuItems = ref([
-  {text: 'NEWS&CONCERTS', path: '/concerts/upcoming/'}, 
+  {text: 'NEWS&CONCERTS', path: '/concerts'}, 
   {text: 'ABOUT', path: '/about/'}, 
   {text: 'COMPOSITIONS', path: '/compositions/'},
   {text: 'PHOTOS', path: '/photos/'},
@@ -61,17 +61,8 @@ const menuItems = ref([
 .header {
   position: relative;
   z-index: 10;
-  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
-  
-  a {
-    text-decoration: none;
-    color: black
-  }
-  a.router-link-active {
-    text-decoration: underline;
-    color: black
-  }
-
+  border-bottom: 1px solid black;
+ 
 }
 
 .page {
