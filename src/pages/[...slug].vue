@@ -9,7 +9,9 @@ const containerStyle = (doc: any) => {
   if (doc.backgroundImage) {
     return {
       'background-image': `url(${doc.backgroundImage})`,
-      'background-size': 'cover'
+      'background-size': 'cover',
+      'background-repeat': 'no-repeat',
+      'background-position': 'center top'
     }
   }
 }

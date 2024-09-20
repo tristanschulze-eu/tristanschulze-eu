@@ -6,4 +6,12 @@ interface Concert {
   description: string;
 }
 
-export type { Concert }
+interface Composition { 
+  title: string;
+  catgegory: string;
+  instrumentation: string[];
+  links: {name: string; url: string}[];
+  description: string;
+}
+
+export type { Concert, Composition }

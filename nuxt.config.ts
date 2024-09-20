@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxt/content', '@nuxtjs/i18n'],
+  modules: ['@nuxt/content', '@nuxtjs/i18n', '@nuxt/image'],
   srcDir: 'src/',
   ssr: true,
   routeRules: {

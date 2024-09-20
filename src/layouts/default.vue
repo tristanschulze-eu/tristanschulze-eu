@@ -40,7 +40,7 @@ const menuItems = ref([
 
 <style lang="scss">
 .main {
-  min-height: 100vh;
+  min-height: calc(100vh + 5rem);
   display: flex;
   flex-direction: column;
 }

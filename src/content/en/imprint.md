@@ -17,7 +17,7 @@ info@tristanschulze.at
 
 ::br
 
-## Production Acknowledgement
+## Website Acknowledgement
 
 Built by Max Wolschlager ([ungut.at](ungut.at))
 
