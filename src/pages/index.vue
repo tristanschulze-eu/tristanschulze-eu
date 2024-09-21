@@ -4,7 +4,7 @@
       <ContentRenderer class="px-4 py-6 w-100" :value="doc" />
     </ContentDoc>
     <div class="index__image h-100" >
-      <nuxt-img src="/img/index/Tristan_Schulze-12.jpg" />
+      <nuxt-img preload src="/img/index/Tristan_Schulze-12.jpg" />
     </div>
   </div>
 </template>
