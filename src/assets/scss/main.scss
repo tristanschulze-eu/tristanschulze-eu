@@ -11,6 +11,16 @@
 }
 
 
+:root {
+  --color-primary: #92beff;
+  --color-secondary: #003b95;
+  --color-white: white;
+  --color-black: black;
+
+}
+
+@import '@dafcoe/vue-collapsible-panel/dist/vue-collapsible-panel.css';
+
 // Clearfix
 body,
 html,
@@ -25,24 +35,24 @@ h5 {
 
  
 a {
-  color: black
+  color: var(--color-black);
 }
 a.router-link {
   text-decoration: none;
 }
 a.router-link-active {
   text-decoration: underline;
-  color: black
+  color: var(--color-black);
 }
 
 .bg-primary {
-  background: #92beff;
-  color: black;
+  background: var(--color-primary);
+  color: var(--color-black);
 }
 .bg-secondary {
-  background: #003b95;
-  color: white;
+  background: var(--color-secondary);
+  color: var(--color-white);
   a, a.router-link-active {
-    color: white
+    color: var(--color-white);
   }
 }

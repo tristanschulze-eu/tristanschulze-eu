@@ -4,10 +4,30 @@ export default {
   strategy: 'prefix',
   messages: {
     de: {
-      welcome: 'Willkommen'
+      'NEWS&CONCERTS': 'NEWS&KONZERTE',
+      'UPCOMING': 'AKTUELL',
+      'PAST': 'VERGANGEN',
+      'ABOUT': 'ABOUT',
+      'COMPOSITIONS': 'KOMPOSITIONEN',
+      'PHOTOS': 'PHOTOS',
+      'CONTACT': 'KONTAKT',
+      'Imprint': 'Impressum',
+      'Title': 'Titel',
+      'Instrumentation': 'Besetzung',
+      'Material': 'Material',
     },
     en: {
-      welcome: 'Welcome'
+      'NEWS&CONCERTS': 'NEWS&CONCERTS',
+      'UPCOMING': 'UPCOMING',
+      'PAST': 'PAST',
+      'ABOUT': 'ABOUT',
+      'COMPOSITIONS': 'COMPOSITIONS',
+      'PHOTOS': 'PHOTOS',
+      'CONTACT': 'CONTACT',   
+      'Imprint': 'Imprint',
+      'Title': 'Title',
+      'Instrumentation': 'Instrumentation',
+      'Material': 'Material',
     },
   }
 }

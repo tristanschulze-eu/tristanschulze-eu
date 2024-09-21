@@ -8,7 +8,7 @@ instrumentation:
   - Instrument 4
   - Piano
 links:
-  - name: Material
+  - name: Recording
     url: https://google.com/
   - name: Sheet
     url: https://google.com/

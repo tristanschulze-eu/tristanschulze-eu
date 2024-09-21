@@ -1,6 +1,21 @@
 export default defineNuxtConfig({
+  app: {
+    head: {
+      titleTemplate(titleChunk) {
+          return titleChunk
+            ? `${titleChunk
+            } - Site Title` : 'Site Title';
+      }
+    }
+  },
   devtools: { enabled: true },
-  modules: ['@nuxt/content', '@nuxtjs/i18n', '@nuxt/image'],
+  modules: [
+    '@nuxt/content',
+    '@nuxtjs/i18n',
+    '@nuxt/image',
+    '@nuxt/scripts',
+    'nuxt-easy-lightbox'
+  ],
   srcDir: 'src/',
   ssr: true,
   routeRules: {
@@ -8,9 +23,12 @@ export default defineNuxtConfig({
   },
   css: ["@/assets/scss/main.scss", "@/assets/scss/utils.scss"],
   compatibilityDate: '2024-09-15',
+  plugins: [
+    '~/plugins/panel'
+  ],
   content: {
     documentDriven: true,
-    markdown: { 
+    markdown: {
       anchorLinks: false
     }
   },

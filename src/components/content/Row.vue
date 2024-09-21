@@ -6,15 +6,18 @@
 
 <script setup lang="ts">
 interface Props { 
-  gap: string;
+  gap?: string;
+  justifyContent?: string;
 }
 const props = withDefaults(defineProps<Props>(), {
   gap: '.5rem',
+  justifyContent: 'space-around',
 })
 
 const style = computed(() => {
   return {
     gap: props.gap,
+    justifyContent: props.justifyContent,
   }
 })
 </script>
@@ -23,7 +26,6 @@ const style = computed(() => {
   width: 100%;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
 }

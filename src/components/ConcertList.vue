@@ -1,7 +1,7 @@
 <template>
   <div class="concert-list">
     <div v-for="c in props.concerts" class="concert-list__item">
-      <concert  v-bind="c"/>
+      <concert  v-bind="c" class="ma-1"/>
     </div>
   </div>
 </template>
@@ -18,27 +18,34 @@ const props = withDefaults(defineProps<Props>(), {
 </script>
 
 <style lang="scss">
+@import '~/assets/scss/utils.scss';
+
 .concert-list {
   display: flex;
   flex-flow: row wrap;
-  gap: 1rem;
-  justify-content: space-between;
+  align-items: start;
+  margin: 0 auto 0 auto;
+
 }
 
 .concert-list__item {
-  width: 80%;
-  margin: 0 auto 0 auto;
+  width: 100%;
 }
 
-@media only screen and (min-width: 600px) {
+
+@media (min-width: #{map-get($breakpoints, sm, min-width)}){
   .concert-list__item {
-    width: 30%;
+    width: 50%;
   }
 }
-
-@media only screen and (min-width: 960px) {
+@media (min-width: #{map-get($breakpoints, md, min-width)}){
   .concert-list__item {
-    width: 20%;
+    width: calc(100% / 3);
+  }
+}
+@media (min-width: #{map-get($breakpoints, lg, min-width)}){
+  .concert-list__item {
+    width: calc(100% / 5);
   }
 }
 

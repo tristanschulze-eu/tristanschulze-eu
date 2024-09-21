@@ -6,7 +6,8 @@
       </nuxt-link>
       <div class="menu mb-1">
         <div class="menu__navigation">
-          <nuxt-link v-for="mi in menuItems" class="router-link mr-6 mr-md-up-8 fs-4 fs-md-up-5" :to="localePath(mi.path)" :exact="mi.exact">{{mi.text}}</nuxt-link>
+          <nuxt-link v-for="mi in menuItems" class="router-link mr-6 mr-md-up-8 fs-4 fs-md-up-5"
+            :to="localePath(mi.path)">{{ $t(mi.text) }}</nuxt-link>
         </div>
         <div class="menu__language fs-4 fs-md-up-5">
           <nuxt-link class="router-link" :to="switchLocalePath('de')">DE</nuxt-link>
@@ -19,7 +20,7 @@
       <slot />
     </div>
     <div class="footer px-6 py-4">
-      <nuxt-link :to="localePath('/imprint')">Imprint</nuxt-link>
+      <nuxt-link :to="localePath('/imprint')">{{ $t('Imprint') }}</nuxt-link>
       <div>Copyright Tristan Schulze 2024</div>
     </div>
   </div>
@@ -30,11 +31,11 @@ const switchLocalePath = useSwitchLocalePath();
 const localePath = useLocalePath();
 
 const menuItems = ref([
-  {text: 'NEWS&CONCERTS', path: '/concerts'}, 
-  {text: 'ABOUT', path: '/about/'}, 
-  {text: 'COMPOSITIONS', path: '/compositions/'},
-  {text: 'PHOTOS', path: '/photos/'},
-  {text: 'CONTACT', path: '/contact/'}
+  { text: 'NEWS&CONCERTS', path: '/concerts' },
+  { text: 'ABOUT', path: '/about/' },
+  { text: 'COMPOSITIONS', path: '/compositions/' },
+  { text: 'PHOTOS', path: '/photos/' },
+  { text: 'CONTACT', path: '/contact/' }
 ]);
 </script>
 
@@ -44,25 +45,29 @@ const menuItems = ref([
   display: flex;
   flex-direction: column;
 }
+
 .menu {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
+
 .menu__navigation {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
+
 .menu__language {
   white-space: nowrap;
   align-self: center;
 }
+
 .header {
   position: relative;
   z-index: 10;
-  border-bottom: 1px solid black;
- 
+  border-bottom: 1.5px solid black;
+
 }
 
 .page {
