@@ -19,6 +19,8 @@
 </template>
 
 <script setup lang="ts">
+definePageMeta({ documentDriven: { page: false, surround: false} }) 
+
 const localePath = useLocalePath();
 const route = useRoute();
 if (route.path.endsWith("concerts")) {

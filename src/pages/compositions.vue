@@ -10,6 +10,7 @@
 </template>
 
 <script setup lang="ts">
+definePageMeta({ documentDriven: { page: false, surround: false} }) 
 import CompositionList from "../components/CompositionList.vue";
 const { locale } = useI18n()
 const compositions = await queryContent(`/${locale.value}/compositions/`)
