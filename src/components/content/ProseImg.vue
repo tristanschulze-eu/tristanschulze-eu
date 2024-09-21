@@ -1,6 +1,6 @@
 <template>
   <div>    
-    <img class="content-image" :style="style" :src="props.src" @click="showImg(0)"/>
+    <img class="content-image" :style="style" :src="`~${props.src}`" @click="showImg(0)"/>
 
     <vue-easy-lightbox
       :visible="visibleRef"
