@@ -4,7 +4,7 @@
 
     <vue-easy-lightbox
       :visible="visibleRef"
-      :imgs="[props.src]"
+      :imgs="[imgUrl]"
       :index="indexRef"
       @hide="onHide"
     />
@@ -20,6 +20,11 @@ interface Props {
 }
 const props = withDefaults(defineProps<Props>(), {
   height: '300px',
+})
+const img = useImage()
+const imgUrl = computed(() => {
+  const imgUrl = img(props.src)
+  return imgUrl
 })
 
 const visibleRef = ref(false);

@@ -1,7 +1,7 @@
 <template>
   <div class="sm-links">
     <a v-for="sml in links" target="_blank" :href="sml.url">
-      <img class="sm-link-image ma-2" :src="sml.imgSrc"  />
+      <nuxt-img class="sm-link-image ma-2" :src="sml.imgSrc" />
     </a>
   </div>
 </template>

@@ -5,7 +5,7 @@
         <div class="concert__overlay bg-secondary pa-2">
           <a target="_blank" :href="props.url">{{ displayUrl }} </a>
         </div>
-        <img class="concert__image" :src="props.image_src">
+        <nuxt-img class="concert__image" :src="props.image_src" />
       </div>
     </a>
     <div class="pa-1 mt-3 fs-5">
