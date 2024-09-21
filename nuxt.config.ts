@@ -1,11 +1,10 @@
+console.log("Base Url: " + process.env.NUXT_APP_BASE_URL)
+
 export default defineNuxtConfig({
   app: {
+    baseURL: process.env.NUXT_APP_BASE_URL,
     head: {
-      titleTemplate(titleChunk) {
-          return titleChunk
-            ? `${titleChunk
-            } - Site Title` : 'Site Title';
-      }
+      title: "Tristan Schulze"
     }
   },
   devtools: { enabled: true },
