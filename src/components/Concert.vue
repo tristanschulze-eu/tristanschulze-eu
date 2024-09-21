@@ -29,7 +29,7 @@ const props = withDefaults(defineProps<Concert>(), {
 
 const displayUrl = computed(() => {
     const url = new URL(props.url)
-    return `${url.protocol}://${url.hostname}/`
+    return `${url.protocol}//${url.hostname}/`
   }
 )
 
