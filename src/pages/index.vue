@@ -1,17 +1,25 @@
 <template>
-  <div class="index w-100">
+  <div class="index w-100" :style="backgroundStyles">
     <ContentDoc v-slot="{ doc }">
       <ContentRenderer class="px-4 py-6 w-100" :value="doc" />
     </ContentDoc>
-    <div class="index__image h-100" >
-      <nuxt-img preload src="/img/index/Tristan_Schulze-12.jpg" />
-    </div>
   </div>
 </template>
   
+<script setup lang="ts">
+const img = useImage()
+const backgroundStyles = computed(() => {
+  const imgUrl = img('/img/index/Tristan_Schulze-12.jpg')
+  return { backgroundImage: `url('${imgUrl}')` }
+})
+</script>
+
 <style lang="scss">
 .index {
   position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 .index__image {
   z-index: -10;
@@ -19,9 +27,10 @@
   top: 0;
   left: 0;
   overflow: hidden;
+  width: 100%;
   img {
-    min-height: 100%;
-    width: 100%;
+    height: 100%;
+    min-width: 100%;
   }
 }
 </style>
