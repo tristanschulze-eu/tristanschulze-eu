@@ -1,29 +1,30 @@
 # Imprint
 
-::br
+:br
 
 ## Website Ownership
 
 This website is owned and operated by:
 
-```
+```text
 Tristan Schulze
 Garnisongasse 10/7
 1090 Vienna
 Austria
+
 ```
 
-info@tristanschulze.at
+<info@tristanschulze.at>
 
-::br
+:br
 
 ## Website Acknowledgement
 
 Built by Max Wolschlager ([ungut.at](ungut.at))
 
-Designed by Klara Wolschlager (wolschlagerklara@gmail.com) 
+Designed by Klara Wolschlager (<wolschlagerklara@gmail.com>)
 
-::br
+:br
 
 ## Legal Disclaimer
 

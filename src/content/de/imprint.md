@@ -1,27 +1,27 @@
 # Impressum
 
-::br
+:br
 
 ## Inhaber / Betreiber
 
-```
+```text
 Tristan Schulze
 Garnisongasse 10/7
 1090 Vienna
 Austria
 ```
 
-info@tristanschulze.at
+<info@tristanschulze.at>
 
-::br
+:br
 
 ## Produktionsannerkennung
 
 Gebaut von Max Wolschlager ([ungut.at](ungut.at))
 
-Designed von Klara Wolschlager (wolschlagerklara@gmail.com) 
+Designed von Klara Wolschlager (<wolschlagerklara@gmail.com>)
 
-::br
+:br
 
 ## Rechtliche Hinweise
 
