@@ -32,8 +32,8 @@ const indexRef = ref(0);
 
 const style = computed(() => {
   return {
-    width: props.width,
-    height: props.height,
+    maxWidth: props.width,
+    maxHeight: props.height,
     'aspect-ratio': props.aspectRatio
   }
 })
@@ -50,5 +50,6 @@ const onHide = () => (visibleRef.value = false);
   border-radius: 1rem;
   background-color: white;
   cursor: pointer;
+  max-width: 90vw;
 }
 </style>
