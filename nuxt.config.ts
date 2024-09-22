@@ -13,6 +13,7 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@nuxt/image',
     '@nuxt/scripts',
+    '@nuxthq/studio',
     'nuxt-easy-lightbox'
   ],
   srcDir: 'src/',

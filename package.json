@@ -19,6 +19,7 @@
     "typescript": "^5.6.2"
   },
   "devDependencies": {
+    "@nuxthq/studio": "^2.1.1",
     "@types/lodash-es": "^4.17.12",
     "sass-embedded": "^1.78.0"
   }
