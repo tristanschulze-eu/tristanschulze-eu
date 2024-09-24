@@ -9,7 +9,7 @@
 <script setup lang="ts">
 const img = useImage()
 const backgroundStyles = computed(() => {
-  const imgUrl = img('/img/index/Tristan_Schulze-12.jpg')
+  const imgUrl = img('/img/index/Tristan_Schulze-14.jpg')
   return { backgroundImage: `url('${imgUrl}')` }
 })
 </script>
