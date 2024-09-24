@@ -1,7 +1,7 @@
 <template>
   <div class="main">
     <div class="header px-4 pr-6 pt-6 pb-2">
-      <nuxt-link class="router-link" :to="localePath('/')">
+      <nuxt-link class="td-none router-link" :to="localePath('/')">
         <h1 class="text-bold fs-10 fs-md-up-12 mb-6"> Tristan Schulze </h1>
       </nuxt-link>
       <div class="menu mb-1">
@@ -20,8 +20,10 @@
       <slot />
     </div>
     <div class="footer px-6 py-4">
-      <nuxt-link :to="localePath('/imprint')">{{ $t('Imprint') }}</nuxt-link>
-      <div>Copyright Tristan Schulze 2024</div>
+      <sm-links height="24px"></sm-links>
+      <div>
+        <nuxt-link :to="localePath('/imprint')">{{ $t('Imprint') }}</nuxt-link>
+         | Copyright Tristan Schulze 2024</div>
     </div>
   </div>
 </template>

@@ -1,7 +1,7 @@
 <template>
   <div class="concert-list">
     <div v-for="c in props.concerts" class="concert-list__item">
-      <concert  v-bind="c" class="ma-1"/>
+      <concert  v-bind="c" class="ma-4 ma-md-up-8"/>
     </div>
   </div>
 </template>
@@ -45,7 +45,7 @@ const props = withDefaults(defineProps<Props>(), {
 }
 @media (min-width: #{map-get($breakpoints, lg, min-width)}){
   .concert-list__item {
-    width: calc(100% / 5);
+    width: calc(100% / 4);
   }
 }
 

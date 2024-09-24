@@ -30,6 +30,6 @@ if (route.path.endsWith("concerts")) {
 
 <style>
 .concert-menu {
-  border-bottom: 1px solid white;
+/*  border-bottom: 1px solid white;*/
 }
 </style>

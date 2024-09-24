@@ -9,7 +9,7 @@ export default {
       'PAST': 'VERGANGEN',
       'ABOUT': 'ABOUT',
       'COMPOSITIONS': 'KOMPOSITIONEN',
-      'PHOTOS': 'PHOTOS',
+      'PHOTOS': 'FOTOS',
       'CONTACT': 'KONTAKT',
       'Imprint': 'Impressum',
       'Title': 'Titel',

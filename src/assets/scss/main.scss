@@ -44,7 +44,9 @@ a.router-link-active {
   text-decoration: underline;
   color: var(--color-black);
 }
-
+.td-none {
+  text-decoration: none !important;
+}
 .bg-primary {
   background: var(--color-primary);
   color: var(--color-black);

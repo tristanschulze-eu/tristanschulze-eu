@@ -19,7 +19,7 @@ const backgroundStyles = computed(() => {
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center top;
+  background-position: center 50%;
 }
 .index__image {
   z-index: -10;

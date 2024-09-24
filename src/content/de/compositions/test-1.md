@@ -1,7 +1,35 @@
 ---
 title: Test 1
 category: Orchestra
-instrumentation:
+instrumentation:  
+  - Instrument 1
+  - Instrument 2
+  - Instrument 3
+  - Instrument 4
+  - Instrument 1
+  - Instrument 2
+  - Instrument 3
+  - Instrument 4
+  - Instrument 1
+  - Instrument 2
+  - Instrument 3
+  - Instrument 4
+  - Instrument 1
+  - Instrument 2
+  - Instrument 3
+  - Instrument 4
+  - Instrument 1
+  - Instrument 2
+  - Instrument 3
+  - Instrument 4
+  - Instrument 1
+  - Instrument 2
+  - Instrument 3
+  - Instrument 4
+  - Instrument 1
+  - Instrument 2
+  - Instrument 3
+  - Instrument 4
   - Instrument 1
   - Instrument 2
   - Instrument 3

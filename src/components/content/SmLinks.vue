@@ -1,12 +1,33 @@
 <template>
-  <div class="sm-links">
+  <div class="sm-links" :style="containerStyle">
     <a v-for="sml in links" target="_blank" :href="sml.url">
-      <nuxt-img class="sm-link-image ma-2" :src="sml.imgSrc" />
+      <nuxt-img class="sm-link-image ma-1" :src="sml.imgSrc" :style="imgStyle" />
     </a>
   </div>
 </template>
 
 <script setup lang="ts">
+interface Props { 
+  width?: string;
+  height?: string;
+}
+const props = withDefaults(defineProps<Props>(), {
+  width: '300px',
+  height: '64px',
+})
+
+const containerStyle = computed(() => {
+  return {
+    maxWidth: props.width,
+  }
+
+})   
+const imgStyle = computed(() => {
+  return {
+    maxHeight: props.height,
+  }
+})   
+
 const links = [
   {
     imgSrc: "/sm/apple-music.png",
@@ -36,13 +57,14 @@ const links = [
 </script>
 
 <style lang="scss">
+.sm-links a {
+  flex-grow: 0;
+  flex-shrink: 1;
+  max-height:  100%;
+}
 .sm-link-image {
   border-radius: 1rem;
   background-color: white;
-  height: 80px;
   aspect-ratio: 1 / 1;
-}
-.sm-links {
-  max-width: 380px;
 }
 </style>
