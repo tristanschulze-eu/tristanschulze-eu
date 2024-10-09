@@ -1,7 +1,7 @@
 <template>
   <div class="index w-100" :style="backgroundStyles">
     <ContentDoc v-slot="{ doc }">
-      <ContentRenderer class="px-4 py-6 w-100" :value="doc" />
+      <ContentRenderer class="mx-4 my-6" :value="doc" />
     </ContentDoc>
   </div>
 </template>
