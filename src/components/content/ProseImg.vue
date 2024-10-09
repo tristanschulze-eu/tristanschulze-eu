@@ -1,13 +1,30 @@
 <template>
   <div>    
-    <nuxt-img preload class="content-image" :style="style" :src="props.src" @click="showImg(0)"/>
+    <figure>
+      <nuxt-img preload class="content-image" :style="style" :src="props.src" @click="showImg(0)"/>
+      <figcaption v-html="props.caption" />
+    </figure>
 
     <vue-easy-lightbox
       :visible="visibleRef"
       :imgs="[imgUrl]"
       :index="indexRef"
       @hide="onHide"
-    />
+    >
+      <template v-slot:toolbar="{ toolbarMethods }">
+        <div class="lightbox__toolbar">
+          <div class="w-100 ta-center"><span class="button">{{ props.caption }}</span></div>
+          <div >
+            <button @click="toolbarMethods.zoomIn">+</button>
+            <button @click="toolbarMethods.zoomOut">-</button>
+            <a :href="imgUrl" download >
+              <button>download</button>
+            </a>
+          </div>
+
+        </div>
+      </template>
+    </vue-easy-lightbox>
   </div>
 </template>
 
@@ -16,6 +33,7 @@ interface Props {
   src: string;
   width?: string;
   height?: string;
+  caption?: string;
   aspectRatio?: string;
 }
 const props = withDefaults(defineProps<Props>(), {
@@ -51,5 +69,25 @@ const onHide = () => (visibleRef.value = false);
   background-color: white;
   cursor: pointer;
   max-width: 90vw;
+}
+
+.lightbox__toolbar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.button, button { 
+  background: white; border-radius: .25rem;
+  padding: .5rem 1rem;
+  margin: 0 .5rem;
+  box-sizing: content-box;
+  border: none;
 }
 </style>
