@@ -13,11 +13,11 @@
     >
       <template v-slot:toolbar="{ toolbarMethods }">
         <div class="lightbox__toolbar">
-          <div class="w-100 ta-center"><span class="button">{{ props.caption }}</span></div>
+          <div class="w-100 ta-center"><span class="card">{{ props.caption }}</span></div>
           <div >
             <button @click="toolbarMethods.zoomIn">+</button>
             <button @click="toolbarMethods.zoomOut">-</button>
-            <a :href="imgUrl" download >
+            <a :href="imgUrl" download>
               <button>download</button>
             </a>
           </div>
@@ -83,11 +83,18 @@ const onHide = () => (visibleRef.value = false);
   align-items: center;
   gap: 12px;
 }
-.button, button { 
+.card, button { 
   background: white; border-radius: .25rem;
   padding: .5rem 1rem;
   margin: 0 .5rem;
   box-sizing: content-box;
   border: none;
+  transition: all .25s ease
+}
+button {
+  cursor: pointer;
+}
+button:hover {
+  background: #dddddd;
 }
 </style>
