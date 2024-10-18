@@ -6,7 +6,6 @@
 ![undefined](/img/about/Tristan_Schulze-2.jpg){caption="© Copyright"}
 
 ![undefined](/img/about/Tristan_Schulze-16.jpg){caption="© Copyright"}
-
 ::
 
 ::row
@@ -14,11 +13,6 @@
   # Biography
   
   Tristan Schulze is versatile freelance composer, cellist, organist, and conductor based in Vienna, Austria.
-
-  ::br
-  ::br
-
-  More bio...
   :::
 
   :::row
