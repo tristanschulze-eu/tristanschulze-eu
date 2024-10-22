@@ -10,6 +10,7 @@ Mit dem "edit" (Stift Icon) button kommt man ins Bearbeitungsmenu:
 ![image](https://github.com/user-attachments/assets/30a08fb2-c22e-461d-bf47-97777a1c7c0e)
 
 Mit dem gruenen "Commit Changes" button veroeffentlicht man die Aenderungen sofort.
+
 ![image](https://github.com/user-attachments/assets/40319601-c23c-44d3-8f3a-98a810f9607c)
 
 Die Syntax des files ist eine erweiterte Markdown Syntax. Mehr info hier: https://content.nuxt.com/usage/markdown
