@@ -94,4 +94,11 @@ Man kann den prozess auf dem Tab "Actions" beobachten:
 
 Wenn alles gruen ist: Gut! Wenn rot oder ewig gelb/orange: Max anrufen!
 
-hth
+Gut:
+
+![image](https://github.com/user-attachments/assets/e6c560e2-a299-4cad-af7e-2742b5888ffe)
+
+Nicht gut: Rotes "X"
+oder, wenn ewig so:
+
+![image](https://github.com/user-attachments/assets/7eafb776-e8c1-4b0d-a65a-06b404f74a80)
