@@ -1,7 +1,7 @@
 ---
 title: AirPower
 start_date: 2024-09-06
-image_src: src/public/img/airpower24.png
+image_src: /img/airpower24.png
 url: https://lawinetorren.com/argonauten-site
 description: |
   Am 6. und 7. September 2024 feierte die Komposition "Argonauten" von Tristan Schulze ihre Uraufführung bei der AirPower Zeltweg. 
