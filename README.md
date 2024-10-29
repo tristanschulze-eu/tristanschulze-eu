@@ -102,3 +102,7 @@ Nicht gut: Rotes "X"
 oder, wenn ewig so:
 
 ![image](https://github.com/user-attachments/assets/7eafb776-e8c1-4b0d-a65a-06b404f74a80)
+
+Wenn du dich abenteurlich fuehlst kannst du die logs unter dem "Actions" reiter selbst ansehen:
+
+![image](https://github.com/user-attachments/assets/c56b586a-d544-4d98-b965-d6a52f3cf559)
