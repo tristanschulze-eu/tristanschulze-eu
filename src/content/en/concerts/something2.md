@@ -1,9 +1,8 @@
 ---
-title: Something Else 
-start_date: 2024-12-01
-image_src: /img/image.png
-url: https://google.com/
+title: Camerata Aurea 
+start_date: 2024-08-11
+image_src: /img/camerataaurea.png
+url: https://www.allegro-vivo.at/de/events/kammermusik-konzert-20/
 description: |
-  Lorem ipsum dolor sit amed and so forth
-  and so on. Even longer descriptions are tested as well...
+  On Sunday, August 11, the Camerata Aurea performed a concert at the Gertrudskirche in Gars am Kamp as part of the Allegro Vivo Festival.
 ---

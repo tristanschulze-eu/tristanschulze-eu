@@ -1,9 +1,10 @@
 ---
-title: Something Else 
-start_date: 2024-12-01
-image_src: /img/image.png
-url: https://google.com/
+title: Theater in Kempten 
+start_date: 2024-10-05
+image_src: /img/oktoberinkempten2.png
+url: https://theaterinkempten.de/produktion/franz-liszt-symphonieorchester-sopron/
 description: |
-  Lorem ipsum dolor sit amed and so forth
-  and so on. Even longer descriptions are tested as well...
+  The Theater in Kempten and the Franz Liszt Symphony Orchestra from Sopron present an exceptional concert program under the direction of Tristan 
+  Schulze, creating a unique cultural connection between the twin cities of Kempten and Sopron. A complementary matinee the following day will 
+  explore Hungary's cultural heritage and the importance of European collaboration.
 ---
