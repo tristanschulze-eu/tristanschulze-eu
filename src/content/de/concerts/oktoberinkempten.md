@@ -1,7 +1,7 @@
 ---
 title: Theater in Kempten
 start_date: 2024-10-05
-image_src: /img/oktoberinkempten.png
+image_src: /img/oktoberinkempten2.png
 url: https://theaterinkempten.de/produktion/franz-liszt-symphonieorchester-sopron/
 description: |
   Das Theater in Kempten und das Franz Liszt Symphonieorchester aus Sopron präsentieren unter der Leitung von Tristan Schulze ein herausragendes 
