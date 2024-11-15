@@ -3,8 +3,7 @@ title: Konzert für E-Gitarre und Orchester - Opus 40 (25')
 category: Instrumental Konzert
 instrumentation:
   - E-Gitarre
-  - 2/2/2/2
-  - 4/2/3/0
+  - 2/2/2/2 4/2/3/0
   - 3 Perc.
   - Streicher
 links:
