@@ -7,6 +7,8 @@ instrumentation:
   - Pk.+1
   - Str.
 links:
+  - name: Aufnahme
+    url: https://www.youtube.com/watch?v=7qZzgRoFFtk
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
