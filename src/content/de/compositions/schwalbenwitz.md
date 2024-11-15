@@ -4,8 +4,6 @@ category: Chor
 instrumentation:
   - gemischter Chor
 links:
-  - name: Aufnahme
-    url: 
   - name: Noten
     url: https://www.universaledition.com/Werke/Schwalbenwitz/P0212292
 description: |
