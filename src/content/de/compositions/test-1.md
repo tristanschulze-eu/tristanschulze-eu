@@ -1,46 +1,13 @@
 ---
-title: Test 1
-category: Orchestra
+title: An die Musik, Arr. 
+category: Chor
 instrumentation:  
-  - Instrument 1
-  - Instrument 2
-  - Instrument 3
-  - Instrument 4
-  - Instrument 1
-  - Instrument 2
-  - Instrument 3
-  - Instrument 4
-  - Instrument 1
-  - Instrument 2
-  - Instrument 3
-  - Instrument 4
-  - Instrument 1
-  - Instrument 2
-  - Instrument 3
-  - Instrument 4
-  - Instrument 1
-  - Instrument 2
-  - Instrument 3
-  - Instrument 4
-  - Instrument 1
-  - Instrument 2
-  - Instrument 3
-  - Instrument 4
-  - Instrument 1
-  - Instrument 2
-  - Instrument 3
-  - Instrument 4
-  - Instrument 1
-  - Instrument 2
-  - Instrument 3
-  - Instrument 4
-  - Klavier
+  - gemischter Chor
 links:
   - name: Aufnahme
-    url: https://google.com/
+    url: https://www.youtube.com/watch?v=agk_T5dp6aA&t=1s
   - name: Noten
-    url: https://google.com/
+    url: https://www.universaledition.com/Werke/An-die-Musik/P0212277
 description: |
-  Lorem ipsum dolor sit amed and so on
-  and so forth.
+  Arr. 
 ---
