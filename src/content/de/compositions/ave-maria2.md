@@ -1,5 +1,5 @@
 ---
-title: Ave Maria, Arr. - Opus 104, Nr.2
+title: Ave Maria, Arr. - Opus 104, Nr.2 (2')
 category: Musica Sacra
 instrumentation:
   - Tenor

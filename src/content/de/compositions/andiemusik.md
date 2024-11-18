@@ -1,5 +1,5 @@
 ---
-title: An die Musik, Arr. 
+title: An die Musik, Arr. (3')
 category: Chor
 instrumentation:  
   - gemischter Chor

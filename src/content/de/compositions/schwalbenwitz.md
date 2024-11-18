@@ -1,5 +1,5 @@
 ---
-title: Schwalbenwitz
+title: Schwalbenwitz (4')
 category: Chor
 instrumentation:
   - gemischter Chor
