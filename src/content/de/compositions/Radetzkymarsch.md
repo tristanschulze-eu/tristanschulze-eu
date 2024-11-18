@@ -4,7 +4,7 @@ category: Kammermusik
 instrumentation:
   - Violine
   - Kammerorchester oder Orchester
-  - Kurz-Instrumentierung 2/2/2/2 - 2/2/1/1
+  - Kurz-Instrumentierung 2/2/2/2 2/2/1/1
   - timp
   - perc(3)
   - hp

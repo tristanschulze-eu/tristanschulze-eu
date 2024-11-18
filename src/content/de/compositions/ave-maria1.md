@@ -1,5 +1,5 @@
 ---
-title: Ave Maria, Arr. - Opus 104, Nr.1
+title: Ave Maria, Arr. - Opus 104, Nr.1 (2')
 category: Musica Sacra
 instrumentation:
   - Mezzosopran
