@@ -1,6 +1,6 @@
 ---
 title: Adios (3')
-category: Klavier Solo
+category: Solo Instrumente
 instrumentation:
   - Klavier
 links:
