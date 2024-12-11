@@ -2,7 +2,7 @@
 title: From Vienna With Love für improvisierenden Solisten und Streichorchester - Opus 99a (6')
 category: Instrumental Konzert
 instrumentation:
-  - Soloinstrument
+  - Improvisierender Jazzsolist
   - Streicher
 links:
   - name: Aufnahme

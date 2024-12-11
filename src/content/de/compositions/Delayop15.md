@@ -2,7 +2,7 @@
 title: Delay - Opus 15, Nr. 3 (3')
 category: Kammermusik
 instrumentation:
-  - 2 Violoncello
+  - 2 Violoncelli
 links:
   - name: Noten
     url: https://www.universaledition.com/Werke/Delay/P0212274

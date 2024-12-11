@@ -2,15 +2,13 @@
 title: Radetzkymarsch, Arr. - Opus 4 (3')
 category: Kammermusik
 instrumentation:
-  - Violine
-  - Kammerorchester oder Orchester
-  - Kurz-Instrumentierung 2/2/2/2 2/2/1/1
-  - timp
-  - perc(3)
-  - hp
-  - e.guit
-  - bass guit
-  - str
+  - Solo Violine und Kammerorchester oder Orchester
+  - 2/2/2/2  2/2/1/1
+  - Pk+3
+  - Hf
+  - Egit.
+  - Ebass
+  - Str.
 links:
   - name: Aufnahme
     url: https://www.youtube.com/watch?v=A2YdEOkSmNg

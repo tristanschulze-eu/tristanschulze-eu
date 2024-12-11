@@ -2,9 +2,9 @@
 title: Konzert für Violoncello & Blechbläserquintett - Opus 59 (22')
 category: Kammermusik
 instrumentation:
-  - Violoncello
+  - Solo Violoncello
   - Horn in F
-  - 2 Trompete in B
+  - 2 Trompeten in B
   - Posaune und Tuba
 links:
   - name: Aufnahme
