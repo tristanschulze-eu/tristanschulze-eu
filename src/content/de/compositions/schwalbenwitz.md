@@ -2,7 +2,7 @@
 title: Schwalbenwitz (4')
 category: Chor
 instrumentation:
-  - gemischter Chor
+  - SSAATTBB
 links:
   - name: Noten
     url: https://www.universaledition.com/Werke/Schwalbenwitz/P0212292

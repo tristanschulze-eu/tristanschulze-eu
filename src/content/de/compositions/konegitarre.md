@@ -2,13 +2,13 @@
 title: Konzert für E-Gitarre und Orchester - Opus 40 (25')
 category: Instrumental Konzert
 instrumentation:
-  - E-Gitarre
+  - Solo E-Gitarre
   - 2/2/2/2 4/2/3/0
-  - 3 Perc.
+  - Pk+2
   - Streicher
 links:
   - name: Noten
-    url: https://doblinger.at/shop/35-00912-konzert-146098?search=Tristan+Schulze#attr=
+    url: https://www.doblinger-musikverlag.at/de/werk/konzert-für-e-gitarre-und-orchester
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
