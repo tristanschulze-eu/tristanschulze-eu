@@ -1,15 +1,14 @@
 ---
 title: Die Tiere des Jadekaisers Ein doppeltes Doppelkonzert für Doppelrohrblattinstrumente - Opus 82 (50'), Text v. Veronika Wolschlager u. Tristan Schulze
-category: Orchester
+category: Orchester und Sprecher
 instrumentation:
-  - Ob
-  - Engl.Hn
-  - Fg
-  - Kfg Streicher
   - Sprecher
+  - Solo Ob/Engl.Hn
+  - Solo Fg/Kfg
+  - Streicher
 links:
-  - name: Noten
-    url: 
+  - name: Aufnahme
+    url: https://www.youtube.com/watch?v=DeINBjp-sTQ$0
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.

@@ -5,18 +5,13 @@ instrumentation:
   - 4 Sänger
   - Kindersolisten
   - Kinderchor
-  - 2/2/2/2 2/2/3/0
-  - Pk
-  - Perk
   - Vl
   - Vc
-  - Kb  
   - Akk
-  - Vl I
-  - Vl II
-  - Va
-  - Vc
   - Kb
+  - 2/2/2/2 2/2/3/0
+  - Pk+1 
+  - Streicher
 links:
   - name: Aufnahme
     url: https://www.amazon.de/Patchwork-Eine-Familienoper-Tristan-Schulze/dp/B072WR36GL

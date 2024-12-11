@@ -3,10 +3,10 @@ title: Premiere - Opus 73 (65'), Text v. Rainer Vierlinger u. Anton Maria Aigner
 category: Oper
 instrumentation:
   - 3 Solisten
-  - Mzsopran
-  - Tenor
-  - Bariton
-  - Chor SSATB
+  - S
+  - T
+  - Bar
+  - solistisch SSATB
   - Vl
   - Vc
   - Kb  
