@@ -3,8 +3,8 @@ title: Drei Orchesterstücke, I. Jazzmoll & Kreuzelf II. Sachertorte mit Schlag 
 category: Orchester
 instrumentation:
   - 2/2/2/2 2/2/3/1
-  - 3 Perk. 
-  - Harfe
+  - Pk+2
+  - Hf
   - Streicher
 links:
   - name: Aufnahme
