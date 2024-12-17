@@ -1,5 +1,5 @@
 ---
-title: HHermann Hesse on his way to Teatro de la Scala - Opus 60 (13')
+title: Hermann Hesse on his way to Teatro de la Scala - Opus 60 (13')
 category: Orchestra
 instrumentation:
   - 3/2/2/3 4/2/4/0. Timp+2, Hp, Strings
