@@ -7,6 +7,8 @@ instrumentation:
   - Pk+2
   - Streicher
 links:
+  - name: Aufnahme
+    url: https://youtu.be/a-vQyBydb5M
   - name: Noten
     url: https://www.doblinger-musikverlag.at/de/werk/konzert-für-e-gitarre-und-orchester
 description: |
