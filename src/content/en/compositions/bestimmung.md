@@ -1,5 +1,5 @@
 ---
-title: Bestimmung - After texts by Wilhelm Busch (5')
+title: Bestimmung - Based on text by Wilhelm Busch (5')
 category: Chamber Music with Voice
 instrumentation:
   - Mezzo-Soprano and String Quintett (2Vl, Va, Vc, Db)
