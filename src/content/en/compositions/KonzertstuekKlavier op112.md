@@ -1,13 +1,10 @@
 ---
-title: Konzertstück für Klavier und Orchester - Opus 112 (6')
-category: Instrumental Konzert
+title: Concert Piece for Piano and Orchestra - Opus 112 (6')
+category: Concerto
 instrumentation:
-  - Solo Klavier
-  - 2/2/2/2 4/2/3/1
-  - Pk+1
-  - Streicher
+  - Solo Piano, 2/2/2/2 4/2/3/1, Timp+1, Strings
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=7qZzgRoFFtk
 description: |
   Lorem ipsum dolor sit amed and so on

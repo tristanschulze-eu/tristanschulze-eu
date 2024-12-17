@@ -1,12 +1,10 @@
 ---
-title: Die Tiere des Jadekaisers Ein doppeltes Doppelkonzert für Doppelrohrblattinstrumente - Opus 82 (25')
-category: Instrumental Konzert
+title: The Animals of the Jade Emperor - A Double Concerto for Reed Instruments - Opus 82 (25')
+category: Concerto
 instrumentation:
-  - Solo Ob/Engl.Hn
-  - Solo Fg/Kfg
-  - Streicher
+  - Solo Ob/CorAngl, Solo Bassoon/Cbs, Strings
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://youtu.be/DeINBjp-sTQ
 description: |
   Lorem ipsum dolor sit amed and so on

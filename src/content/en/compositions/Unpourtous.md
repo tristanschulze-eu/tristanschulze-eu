@@ -1,13 +1,10 @@
 ---
 title: Un pour tous et tous pour un (3')
-category: Kammermusik
+category: Chamber Music
 instrumentation:
-  - Altblockflöte
-  - Theorbe
-  - Cembalo
-  - Violoncello
+  - Alto Recorder, Theorbe, Harpsichord, Violoncello
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=gRj9gAmaWJo
 description: |
   Lorem ipsum dolor sit amed and so on

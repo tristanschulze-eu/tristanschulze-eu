@@ -1,16 +1,10 @@
 ---
-title: Der Prätorianer - Opus 107 (50'), Text v. Johannes B. Czernin
-category: Oper
+title: The Praetorian - Opus 107 (50'), Text by Johannes B. Czernin
+category: Opera
 instrumentation:
-  - Sopran
-  - Mezzo
-  - Tenor
-  - Violine
-  - Violoncello
-  - Kontrabass
-  - Akkordeon
+  - Soprano, Mezzo-Soprano, Tenor, Violin, Violoncello, Doublebass, Accordion
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=2STST5H8POQ
 description: |
   Lorem ipsum dolor sit amed and so on

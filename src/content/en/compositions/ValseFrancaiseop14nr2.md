@@ -1,12 +1,10 @@
 ---
 title: Une Valse Française - Opus 14, Nr. 2 (2')
-category: Kammermusik
+category: Chamber Music
 instrumentation:
-  - Violine I
-  - Violine II
-  - Violoncello
+  - Violin I, Violin II and Violoncello
 links:
-  - name: Noten
+  - name: Sheet
     url: https://www.universaledition.com/Werke/Une-Valse-Francaise/P0212295
 description: |
   Lorem ipsum dolor sit amed and so on

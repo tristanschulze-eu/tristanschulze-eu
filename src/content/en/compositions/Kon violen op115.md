@@ -1,11 +1,10 @@
 ---
-title: Doppelkonzert für zwei Violen und Streichorchester - Opus 115 (18')
-category: Instrumental Konzert
+title: Double Concerto for two Violas and String Orch - Opus 115 (18')
+category: Concerto
 instrumentation:
-  - 2 Solo Violen
-  - Streicher
+  - 2 Solo Violas, Strings
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=ZCLdQCqQwxY
 description: |
   Lorem ipsum dolor sit amed and so on

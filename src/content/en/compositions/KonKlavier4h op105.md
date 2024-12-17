@@ -1,13 +1,10 @@
 ---
-title: Konzert für Klavier zu 4 Händen und Orchester - Opus 105 (25')
-category: Instrumental Konzert
+title: Concerto for Piano for Four Hands and Orchestra - Opus 105 (25')
+category: Concerto
 instrumentation:
-  - Klavier zu 4H
-  - 2/2/2/2 2/2/3/0
-  - Pk
-  - Streicher
+  - Piano 4H, 2/2/2/2 2/2/3/0, Timp, Strings
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=0QCEeE97_RI&t=631s
 description: |
   Lorem ipsum dolor sit amed and so on

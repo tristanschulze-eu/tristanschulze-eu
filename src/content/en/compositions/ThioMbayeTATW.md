@@ -1,10 +1,10 @@
 ---
 title: Thio Mbaye - Opus 13, Nr.3 (3')
-category: Kammermusik
+category: Chamber Music
 instrumentation:
-  - Violine I, Violine II und Violoncello
+  - Violin I, Violin II and Violoncello
 links:
-  - name: Noten
+  - name: Sheet
     url: https://doblinger.at/en/shop/06-00037-triology-around-the-world-152292?search=Tristan+Schulze#attr=
 description: |
   Lorem ipsum dolor sit amed and so on

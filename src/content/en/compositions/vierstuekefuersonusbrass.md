@@ -1,10 +1,10 @@
 ---
-title: Vier Stücke für Sonus Brass
-category: Kammermusik
+title: Four Pieces for Sonus Brass
+category: Chamber Music
 instrumentation:
-  - 2Tr, Hn, Pos, Tb
+  - 2Tr, Hn, Tb, Tuba
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.sonusbrass.com/multimedia/insieme-cd/
 description: |
   Lorem ipsum dolor sit amed and so on

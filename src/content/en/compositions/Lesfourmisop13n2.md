@@ -1,12 +1,10 @@
 ---
 title: Les fourmis - Opus 13, Nr. 2 (3')
-category: Kammermusik
+category: Chamber Music
 instrumentation:
-  - Violine I
-  - Violine II
-  - Violoncello
+  - Violin I, Violin II and Violoncello
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=UVxR4IpAY5o
 description: |
   Lorem ipsum dolor sit amed and so on

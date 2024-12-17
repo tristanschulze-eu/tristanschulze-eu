@@ -1,15 +1,10 @@
 ---
 title: Undine, Arr. (60'), Albert Lortzing
-category: Oper
+category: Opera
 instrumentation:
-  - 7 Sänger (2S, 2T, Bar, B, Kindersopran)
-  - Kinderchor
-  - 2/2/2/2 2/0/0/0
-  - Pk+1
-  - Hf
-  - Streicher
+  - 7 Singers (2S, 2T, Bar, B, Chirdren Soprano), Children's Choir, 2/2/2/2 2/0/0/0, Timp+1, Hp, Strings
 links:
-  - name: Noten
+  - name: Sheet
     url: https://www.doblinger-musikverlag.at/de/werk/undine-2
 description: |
   Lorem ipsum dolor sit amed and so on

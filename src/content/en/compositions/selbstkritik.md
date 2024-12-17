@@ -1,11 +1,10 @@
 ---
-title: Selbstkritik - Nach Text von Wilhelm Busch (2')
-category: Kammermusik mit Gesang
+title: Self-criticism - Based on text by Wilhelm Busch (2')
+category: Chamber Music with Voice
 instrumentation:
-  - Mezzosopran
-  - Streichquintett (2Vl, Va, Vc, Kb)
+  - Mezzo-Soprano and String Quintett (2Vl, Va, Vc, Db)
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=3-i6szfFhyM
 description: |
   Lorem ipsum dolor sit amed and so on

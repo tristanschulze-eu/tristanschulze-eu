@@ -1,12 +1,10 @@
 ---
 title: Les Oiseaux - Opus 13, Nr. 8 (2')
-category: Kammermusik
+category: Chamber Music
 instrumentation:
-  - Violine I
-  - Violine II
-  - Violoncello
+  - Violin I, Violin II and Violoncello
 links:
-  - name: Noten
+  - name: Sheet
     url: https://www.universaledition.com/Werke/Les-Oiseaux/P0212297
 description: |
   Lorem ipsum dolor sit amed and so on

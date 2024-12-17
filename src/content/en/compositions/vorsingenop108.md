@@ -1,14 +1,10 @@
 ---
-title: Das Vorsingen - Opus 108 (15'), Text v. Veronika Wolschlager u Tristan Schulze
-category: Oper
+title: The audition - Opus 108 (15'), Text by Veronika Wolschlager a. Tristan Schulze
+category: Opera
 instrumentation:
-  - Sopran
-  - Mezzo
-  - 3/2/2/2 4/2/3/1
-  - Pk+1
-  - Str
+  - Soprano, Mezzo-Soprano, 3/2/2/2 4/2/3/1, Timp+1, Strings
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=2STST5H8POQ
 description: |
   Lorem ipsum dolor sit amed and so on

@@ -1,10 +1,10 @@
 ---
 title: Kalif Storch
-category: Orchester und Sprecher
+category: Orchestra and Narrator
 instrumentation:
-  - Sprecher, Solo SSATBarB 1/1/0/0 0/1/3/0, Laute, Sitar, Cembalo, Vl, Vc
+  - Narrator, Solo SSATBarB 1/1/0/0 0/1/3/0, Lute, Sitar, Harpsichord, Vl, Vc
 links:
-  - name: Aufnahme
+  - name: Recording
     url: 
 description: |
   Lorem ipsum dolor sit amed and so on

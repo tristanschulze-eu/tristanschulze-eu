@@ -1,13 +1,10 @@
 ---
 title: Shakespeare Sonett Nr. 8
-category: Kammermusik
+category: Chamber Music
 instrumentation:
-  - Sopran
-  - Altblockflöte
-  - Viola da Gamba
-  - Theorbe 
+  - Soprano, Alto Recorder, Viola da Gamba, Theorbe 
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=U8h4cx3jRe8
 description: |
   Lorem ipsum dolor sit amed and so on

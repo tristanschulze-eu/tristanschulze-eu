@@ -1,10 +1,10 @@
 ---
 title: Irish (2')
-category: Solo Instrumente
+category: Solo Instruments
 instrumentation:
   - Violoncello
 links:
-  - name: Noten
+  - name: Sheet
     url: https://doblinger.at/shop/33-00703-cello-around-the-world-290880?search=Tristan+Schulze#attr=144717,144718,144719,144716
 description: |
   Lorem ipsum dolor sit amed and so on

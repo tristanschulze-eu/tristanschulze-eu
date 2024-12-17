@@ -1,10 +1,10 @@
 ---
-title: Zwölf Etüden & Fuge über die Grundtöne - Opus 71
-category: Solo Instrumente
+title: Twelve Studies & Fugue over the Twelve Tonics - Opus 71
+category: Solo Instruments
 instrumentation:
-  - Klavier
+  - Piano
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://youtu.be/qOSXZt31pKI
 description: |
   Lorem ipsum dolor sit amed and so on
