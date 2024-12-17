@@ -1,10 +1,10 @@
 ---
 title: Adios (3')
-category: Solo Instrumente
+category: Solo Instruments
 instrumentation:
-  - Klavier
+  - Piano
 links:
-  - name: Noten
+  - name: Sheet
     url: https://www.universaledition.com/Werke/Adios/P0212272
 description: |
   Lorem ipsum dolor sit amed and so on
