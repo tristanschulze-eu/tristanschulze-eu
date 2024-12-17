@@ -1,10 +1,10 @@
 ---
-title: Heinrich und sein Löwe, Text v. Micaela v. Marcard
-category: Kammermusik
+title: Henry and his  Lion, Text by Micaela v. Marcard
+category: Chamber Music
 instrumentation:
-  - Sprecher Fl, Ob, Basskl, Fg, Tr, Hn, Pos, Tb, Pk, Klav, Streicher
+  - Narrator, Fl, Ob, Basscl, Bs, Tp, Hn, Tb, Tuba, Timp, Piano, Strings
 links:
-  - name: Noten
+  - name: Sheet
     url: https://www.doblinger-musikverlag.at/de/werk/heinrich-und-sein-löwe-für-erzähler-und-orchester
 description: |
   Lorem ipsum dolor sit amed and so on

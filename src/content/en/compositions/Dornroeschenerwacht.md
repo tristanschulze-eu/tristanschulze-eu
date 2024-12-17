@@ -1,10 +1,10 @@
 ---
-title: Dornröschen erwacht! Text v. Heinz Janisch - Opus 36 (60')
-category: Oper
+title: Sleeping Beauty Wakes Up! Text by Heinz Janisch - Opus 36 (60')
+category: Opera
 instrumentation:
-  - Singende Schaupielerin SATB, Blechbläserquintett, E-Git, E-Bass, Dr
+  - Singing Actress, SATB, Brass Quintett, E-Guit, B-Bass, Dr
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://youtu.be/a6yxsDES4gU
 description: |
   Lorem ipsum dolor sit amed and so on

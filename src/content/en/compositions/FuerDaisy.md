@@ -1,10 +1,10 @@
 ---
-title: Für Daisy
-category: Kammermusik
+title: For Daisy
+category: Chamber Music
 instrumentation:
-  - Violine, Klavier (Gitarre)
+  - Violin, Piano (Guitar)
 links:
-  - name: Noten
+  - name: Sheet
     url: https://www.doblinger-musikverlag.at/de/werk/für-daisy-für-violine-und-klavier-gitarre
 description: |
   Lorem ipsum dolor sit amed and so on

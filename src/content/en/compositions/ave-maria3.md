@@ -2,12 +2,11 @@
 title: Ave Maria - Opus 104, Nr.3 (2')
 category: Musica Sacra
 instrumentation:
-  - Bariton
-  - Orgel
+  - Baritone and Organ
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=vgR_BmhT7PE&t=5s
-  - name: Noten
+  - name: Sheet
     url: https://www.universaledition.com/Werke/Ave-Maria/P0212284
 description: |
   Lorem ipsum dolor sit amed and so on

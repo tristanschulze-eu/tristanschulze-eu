@@ -1,11 +1,10 @@
 ---
-title: Bestimmung - Nach Text von Wilhelm Busch (5')
-category: Kammermusik mit Gesang
+title: Bestimmung - After texts by Wilhelm Busch (5')
+category: Chamber Music with Voice
 instrumentation:
-  - Mezzosopran
-  - Streichquintett (2Vl, Va, Vc, Kb)
+  - Mezzo-Soprano and String Quintett (2Vl, Va, Vc, Db)
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=6_XU_ReMRfk
 description: |
   Lorem ipsum dolor sit amed and so on

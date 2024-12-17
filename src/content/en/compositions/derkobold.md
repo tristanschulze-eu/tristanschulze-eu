@@ -1,11 +1,10 @@
 ---
-title: Der Kobold - Nach Text von Wilhelm Busch (2')
-category: Kammermusik mit Gesang
+title: The Kobold - Based on text by Wilhelm Busch (2')
+category: Chamber Music with Voice
 instrumentation:
-  - Mezzosopran
-  - Streichquintett (2Vl, Va, Vc, Kb)
+  - Mezzo-Soprano and String Quintett (2Vl, Va, Vc, Db)
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=7eZMfoM7wfc
 description: |
   Lorem ipsum dolor sit amed and so on

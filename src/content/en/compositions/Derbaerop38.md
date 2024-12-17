@@ -1,10 +1,10 @@
 ---
-title: Der Bär... Ein musikalisches Märchen nach dem Karneval der Tiere - Opus 38 (60'), Text v. Marcus Davy
-category: Orchester und Sprecher
+title: The Bear... A musical fairy tale based on the carnival of the animals - Opus 38 (60'), text by Marcus Davy
+category: Orchestra and Narrator
 instrumentation:
-  - Sprecher, 2/1/2/1 2/2/1/0, Pk+1, Streicher
+  - Narrator, 2/1/2/1 2/2/1/0, Timp+1, Strings
 links:
-  - name: Noten
+  - name: Sheet
     url: https://www.doblinger-musikverlag.at/de/werk/der-bär
 description: |
   Lorem ipsum dolor sit amed and so on

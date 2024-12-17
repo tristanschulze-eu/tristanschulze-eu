@@ -1,11 +1,10 @@
 ---
-title: Fink und Frosch - Nach Text von Wilhelm Busch (4')
-category: Kammermusik mit Gesang
+title: Finch and Frog - Based on text by Wilhelm Busch (4')
+category: Chamber Music with Voice
 instrumentation:
-  - Mezzosopran
-  - Streichquintett (2Vl, Va, Vc, Kb)
+  - Mezzo-Soprano and String Quintett (2Vl, Va, Vc, Db)
 links:
-  - name: Aufnahme
+  - name: Recording
     url: https://www.youtube.com/watch?v=M9P7SS_FNns
 description: |
   Lorem ipsum dolor sit amed and so on
