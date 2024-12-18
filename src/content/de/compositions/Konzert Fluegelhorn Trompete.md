@@ -1,6 +1,6 @@
 ---
 title: Konzert für Flügelhorn|Trompete und Orchester - Opus 96 (20')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Solo Flügelhorn/Trompete
   - 2/2/2/2 4/2/3/0

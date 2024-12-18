@@ -1,6 +1,6 @@
 ---
 title: Flamenco für Violoncello und Orchester - Opus 98 (4')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Solo Violoncello, 2/2/2/2 4/2/3/0, Pk, Streicher
 links:

@@ -1,6 +1,6 @@
 ---
 title: Konzert für Triology und Orchester - Opus 19 (25')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Solo 2Vl/Vc
   - 2/2/2/2 2/2/3/0

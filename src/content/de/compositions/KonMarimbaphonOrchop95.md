@@ -1,6 +1,6 @@
 ---
 title: Konzert für Marimbaphon und Orchester - Opus 95 (21')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Solo Marimbaphon
   - 2/2/2/2 4/2/3/0

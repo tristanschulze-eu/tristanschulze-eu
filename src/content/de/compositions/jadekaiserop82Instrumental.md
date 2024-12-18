@@ -1,6 +1,6 @@
 ---
 title: Die Tiere des Jadekaisers Ein doppeltes Doppelkonzert für Doppelrohrblattinstrumente - Opus 82 (25')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Solo Ob/Engl.Hn
   - Solo Fg/Kfg

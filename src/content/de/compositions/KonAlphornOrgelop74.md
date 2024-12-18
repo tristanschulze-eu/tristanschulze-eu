@@ -1,6 +1,6 @@
 ---
 title: Konzertstück für Alphorn, Orgel und Orchester - Opus 74 (14')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Alphorn
   - Orgel

@@ -1,6 +1,6 @@
 ---
 title: Konzert für Violine und Streichorchester - Opus 86 (22')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Solo Violine
   - Streicher

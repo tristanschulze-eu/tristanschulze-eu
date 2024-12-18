@@ -1,6 +1,6 @@
 ---
 title: Konzert für Violoncello und Orchester - Opus 80 (30')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Solo Violoncello
   - 2/2/2/2 4/2/3/0

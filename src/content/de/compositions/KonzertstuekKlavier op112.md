@@ -1,6 +1,6 @@
 ---
 title: Konzertstück für Klavier und Orchester - Opus 112 (6')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Solo Klavier
   - 2/2/2/2 4/2/3/1

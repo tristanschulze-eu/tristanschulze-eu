@@ -1,6 +1,6 @@
 ---
 title: Konzert für Klavier zu 4 Händen und Orchester - Opus 105 (25')
-category: Instrumental Konzert
+category: Instrumentalkonzert
 instrumentation:
   - Klavier zu 4H
   - 2/2/2/2 2/2/3/0
