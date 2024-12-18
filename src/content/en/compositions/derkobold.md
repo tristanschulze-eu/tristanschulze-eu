@@ -1,5 +1,5 @@
 ---
-title: The Kobold - Based on text by Wilhelm Busch (2')
+title: Der Kobold - Based on text by Wilhelm Busch (2')
 category: Chamber Music with Voice
 instrumentation:
   - Mezzo-Soprano and String Quintett (2Vl, Va, Vc, Db)
