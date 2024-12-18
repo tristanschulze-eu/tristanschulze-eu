@@ -11,7 +11,7 @@ instrumentation:
   - Akkordeon
 links:
   - name: Aufnahme
-    url: https://www.youtube.com/watch?v=2STST5H8POQ
+    url: https://www.youtube.com/watch?v=yLii7LAXLig
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
