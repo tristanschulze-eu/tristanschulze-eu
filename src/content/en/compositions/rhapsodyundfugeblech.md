@@ -5,7 +5,7 @@ instrumentation:
   - 2Tr, Hn, Tb, Tuba
 links:
   - name: Recording
-    url: https://www.musik-sammler.de/release/mund-art-made-in-austria-cd-1620895/$0
+    url: https://www.musik-sammler.de/release/mund-art-made-in-austria-cd-1620895/
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
