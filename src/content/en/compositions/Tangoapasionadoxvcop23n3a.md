@@ -1,5 +1,5 @@
 ---
-title: Tango apasionado - Opus 23, Nr. 3a (5') 
+title: Tango apasionado - Opus 23, Nr.3a (5') 
 category: Chamber Music with Piano
 instrumentation:
   - Violoncello, Piano

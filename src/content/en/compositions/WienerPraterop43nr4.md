@@ -1,5 +1,5 @@
 ---
-title: A Visit to Prater in Vienna - Opus 43, Nr. 4 (12')
+title: A Visit to Prater in Vienna - Opus 43, Nr.4 (12')
 category: Chamber Music with Piano
 instrumentation:
   - Violin, Piano

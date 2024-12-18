@@ -1,5 +1,5 @@
 ---
-title: The Resurrection of the Viola Player - Opus 34, Nr. 3 (7')
+title: The Resurrection of the Viola Player - Opus 34, Nr.3 (7')
 category: Chamber Music
 instrumentation:
   - String Quartet

@@ -1,5 +1,5 @@
 ---
-title: Variations on “Fox, you stole the goose” - Opus 30, No. 2 (4')
+title: Variations on “Fox, you stole the goose” - Opus 30, No.2 (4')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

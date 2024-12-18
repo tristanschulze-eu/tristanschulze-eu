@@ -1,5 +1,5 @@
 ---
-title: Les Oiseaux - Opus 13, Nr. 8 (2')
+title: Les Oiseaux - Opus 13, Nr.8 (2')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello
