@@ -1,5 +1,5 @@
 ---
-title: Shakespeare Sonett Nr.8
+title: Shakespeare Sonett No.8
 category: Chamber Music
 instrumentation:
   - Soprano, Alto Recorder, Viola da Gamba, Theorbe 

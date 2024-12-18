@@ -1,5 +1,5 @@
 ---
-title: Bulgarian - Opus 30, Nr.3 (3')
+title: Bulgarian - Opus 30, No.3 (3')
 category: Solo Instruments
 instrumentation:
   - Violoncello

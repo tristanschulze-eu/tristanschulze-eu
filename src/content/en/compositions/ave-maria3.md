@@ -1,5 +1,5 @@
 ---
-title: Ave Maria - Opus 104, Nr.3 (2')
+title: Ave Maria - Opus 104, No.3 (2')
 category: Musica Sacra
 instrumentation:
   - Baritone and Organ

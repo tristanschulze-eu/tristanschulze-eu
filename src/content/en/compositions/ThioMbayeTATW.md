@@ -1,5 +1,5 @@
 ---
-title: Thio Mbaye - Opus 13, Nr.3 (3')
+title: Thio Mbaye - Opus 13, No.3 (3')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

@@ -1,5 +1,5 @@
 ---
-title: Tyrolean mountain farmer's harp yodel waltz - Opus 17, Nr.3 (2')
+title: Tyrolean mountain farmer's harp yodel waltz - Opus 17, No.3 (2')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

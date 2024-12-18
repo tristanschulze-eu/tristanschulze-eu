@@ -1,5 +1,5 @@
 ---
-title: In the Train from Mexico to Paris - Opus 17, Nr.6 (2')
+title: In the Train from Mexico to Paris - Opus 17, No.6 (2')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

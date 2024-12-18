@@ -1,5 +1,5 @@
 ---
-title: Tango - in admiration dedicated to Astor Piazzolla - Opus 30, Nr.8 (3')
+title: Tango - in admiration dedicated to Astor Piazzolla - Opus 30, No.8 (3')
 category: Solo Instruments
 instrumentation:
   - Violoncello

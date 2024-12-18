@@ -1,5 +1,5 @@
 ---
-title: Delay - Opus 15, Nr.3 (3')
+title: Delay - Opus 15, No.3 (3')
 category: Chamber Music
 instrumentation:
   - 2 Violoncelli

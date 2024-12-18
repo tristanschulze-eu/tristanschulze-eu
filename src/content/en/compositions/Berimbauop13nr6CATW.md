@@ -1,5 +1,5 @@
 ---
-title: Berimbau et ses amies - Opus 13, Nr.6 (2')
+title: Berimbau et ses amies - Opus 13, No.6 (2')
 category: Solo Instruments
 instrumentation:
   - Violoncello

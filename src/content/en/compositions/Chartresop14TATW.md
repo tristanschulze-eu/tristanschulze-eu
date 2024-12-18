@@ -1,5 +1,5 @@
 ---
-title: Chartres - Opus 14, Nr.4 (3')
+title: Chartres - Opus 14, No.4 (3')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

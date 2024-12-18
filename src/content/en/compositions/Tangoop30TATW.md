@@ -1,5 +1,5 @@
 ---
-title: Tango - Opus 30, Nr.8 (3')
+title: Tango - Opus 30, No.8 (3')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

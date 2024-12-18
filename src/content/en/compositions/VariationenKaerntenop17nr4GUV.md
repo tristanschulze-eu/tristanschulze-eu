@@ -1,5 +1,5 @@
 ---
-title: Variations on a theme that could be from Carinthia by an East German who suffered from wanderlust for a long time - Opus 17, Nr.4 (8')
+title: Variations on a theme that could be from Carinthia by an East German who suffered from wanderlust for a long time - Opus 17, No.4 (8')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

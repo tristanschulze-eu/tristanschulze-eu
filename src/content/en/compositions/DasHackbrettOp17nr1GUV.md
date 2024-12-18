@@ -1,5 +1,5 @@
 ---
-title: The Hammered Dulcimer - Opus 17, Nr.1 (2')
+title: The Hammered Dulcimer - Opus 17, No.1 (2')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

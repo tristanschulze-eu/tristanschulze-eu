@@ -1,5 +1,5 @@
 ---
-title: Sofia Istanbul - Opus 13, Nr.7 (3')
+title: Sofia Istanbul - Opus 13, No.7 (3')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

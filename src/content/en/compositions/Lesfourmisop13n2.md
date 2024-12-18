@@ -1,5 +1,5 @@
 ---
-title: Les fourmis - Opus 13, Nr.2 (3')
+title: Les fourmis - Opus 13, No.2 (3')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello
