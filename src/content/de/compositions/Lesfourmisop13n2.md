@@ -1,5 +1,5 @@
 ---
-title: Les fourmis - Opus 13, Nr. 2 (3')
+title: Les fourmis - Opus 13, Nr.2 (3')
 category: Kammermusik
 instrumentation:
   - Violine I

@@ -1,5 +1,5 @@
 ---
-title: Une Valse Française - Opus 14, Nr. 2 (2')
+title: Une Valse Française - Opus 14, Nr.2 (2')
 category: Kammermusik
 instrumentation:
   - Violine I

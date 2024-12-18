@@ -1,5 +1,5 @@
 ---
-title: Dornröschen erwacht! Text v. Heinz Janisch - Opus 36 (60')
+title: Dornröschen erwacht! - Opus 36 (60') Text v. Heinz Janisch
 category: Oper
 instrumentation:
   - Singende Schaupielerin SATB, Blechbläserquintett, E-Git, E-Bass, Dr

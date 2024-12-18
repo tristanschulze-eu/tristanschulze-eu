@@ -1,5 +1,5 @@
 ---
-title: Sofia Istanbul - Opus 13, Nr. 7 (3')
+title: Sofia Istanbul - Opus 13, Nr.7 (3')
 category: Kammermusik
 instrumentation:
   - Violine I

@@ -1,5 +1,5 @@
 ---
-title: Pizzicato - Opus 20, Nr. 12 (3')
+title: Pizzicato - Opus 20, Nr.12 (3')
 category: Solo Instrumente
 instrumentation:
   - Violoncello

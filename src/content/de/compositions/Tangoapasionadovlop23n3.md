@@ -1,5 +1,5 @@
 ---
-title: Tango apasionado - Opus 23, Nr. 3 (5') 
+title: Tango apasionado - Opus 23, Nr.3 (5') 
 category: Kammermusik mit Klavier
 instrumentation:
   - Violine

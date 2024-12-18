@@ -1,5 +1,5 @@
 ---
-title: Variationen über „Fuchs, du hast die Gans gestohlen“ - Opus 30, Nr. 2 (4')
+title: Variationen über „Fuchs, du hast die Gans gestohlen“ - Opus 30, Nr.2 (4')
 category: Kammermusik
 instrumentation:
   - Violine I

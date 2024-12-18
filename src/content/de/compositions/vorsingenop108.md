@@ -1,5 +1,5 @@
 ---
-title: Das Vorsingen - Opus 108 (15'), Text v. Veronika Wolschlager u Tristan Schulze
+title: Das Vorsingen - Opus 108 (15'), Text v. Veronika Wolschlager u. Tristan Schulze
 category: Oper
 instrumentation:
   - Sopran

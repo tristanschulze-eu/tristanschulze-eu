@@ -1,5 +1,5 @@
 ---
-title: Ein Besuch im Wiener Prater - Opus 43, Nr. 4 (12')
+title: Ein Besuch im Wiener Prater - Opus 43, Nr.4 (12')
 category: Kammermusik
 instrumentation:
   - Violine, Klavier

@@ -1,5 +1,5 @@
 ---
-title: Shakespeare Sonett Nr. 8
+title: Shakespeare Sonett Nr.8
 category: Kammermusik
 instrumentation:
   - Sopran
