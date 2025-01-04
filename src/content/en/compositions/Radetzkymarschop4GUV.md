@@ -1,5 +1,5 @@
 ---
-title: Radetzky March - Arr. Opus 4 (3')
+title: Radetzky March, Arr. - Opus 4 (3')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello

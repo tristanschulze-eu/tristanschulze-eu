@@ -2,7 +2,7 @@
 title: Flötenkonzert - Opus 65 (13')
 category: Instrumentalkonzert
 instrumentation:
-  - Solo Altfl/Gr.Fl/Picc.
+  - Solo Altfl/Gr.Fl/Picc
   - 2Kl
   - Altkl
   - Basskl

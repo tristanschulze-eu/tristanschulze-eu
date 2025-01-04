@@ -1,5 +1,5 @@
 ---
-title: The Animals of the Jade Emperor - A Double Concerto for Reed Instruments - Opus 82 (25') Text by Veronika Wolschlager and Tristan Schulze
+title: The Animals of the Jade Emperor - A Double Concerto for Reed Instruments - Opus 82 (25'), Text by Veronika Wolschlager and Tristan Schulze
 category: Orchestra and Narrator
 instrumentation:
   - Sprecher, Solo Ob/Engl.Hn, Solo Fg/Kfg, Streicher

@@ -2,7 +2,8 @@
 title: Flute Concerto - Opus 65 (13')
 category: Concerto
 instrumentation:
-  - Solo Alto Flute/Flute/Picc, 2Cl, Altocl, Basscl, 2Altsax, Tsax, Barsax, 4Hn, 2Thn, Tb, Timp+3
+  - Solo Alto Flute/Flute/Picc, 2Cl, Altocl, Basscl, 2Altsax, Tsax, Barsax, 4Hn,
+    2Thn, Tb, Timp+3
 links:
   - name: Recording
     url: https://shop.orf.at/oe1/de/cd/neue-musik/1129/guenter-voglmayr-on-air

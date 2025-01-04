@@ -1,5 +1,5 @@
 ---
-title: Sleeping Beauty Wakes Up! - Opus 36 (60') Text by Heinz Janisch
+title: Sleeping Beauty Wakes Up! - Opus 36 (60'), Text by Heinz Janisch
 category: Opera
 instrumentation:
   - Singing Actress, SATB, Brass Quintett, E-Guit, B-Bass, Dr
