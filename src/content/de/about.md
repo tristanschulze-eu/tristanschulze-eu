@@ -5,7 +5,7 @@
 
 ![undefined](/img/about/Tristan_Schulze-2.jpg){caption="© Julia Wesely"}
 
-![undefined](/img/about/TSUniCampKlaraWolschlager.heic){caption="© Klara Wolschlager"}
+![undefined](/img/about/TSUniCampKlaraWolschlager.jpg){caption="© Klara Wolschlager"}
 ::
 
 ::row
