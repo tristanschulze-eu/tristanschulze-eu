@@ -1,4 +1,4 @@
-## Textbox \:D
+## Kompositionen erscheinen uns als wertvoll, weil sie idealerweise in eine Welt führen, die weit über die materielle hinausreicht. Eine Komposition zu beauftragen ist nicht nur möglich, sondern auch erschwinglich.
 
 :br
 
