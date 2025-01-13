@@ -1,4 +1,4 @@
-## Textbox \:D
+## Compositions seem valuable to us because they ideally lead us into a world that goes far beyond the material one. Commissioning a composition is not only possible but also affordable.
 
 :br
 
