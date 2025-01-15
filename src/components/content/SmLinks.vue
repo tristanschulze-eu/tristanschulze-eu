@@ -29,10 +29,10 @@ const imgStyle = computed(() => {
 })   
 
 const links = [
-  {
-    imgSrc: "/sm/apple-music.png",
-    url: "https://apple.com"
-  },
+//  {
+//    imgSrc: "/sm/apple-music.png",
+//    url: "https://apple.com"
+//  },
   {
     imgSrc: "/sm/facebook.png",
     url: "https://facebook.com"
@@ -41,10 +41,10 @@ const links = [
     imgSrc: "/sm/instagram.png",
     url: "https://instagram.com"
   },
-  {
-    imgSrc: "/sm/spotify.png",
-    url: "https://spotify.com"
-  },
+//  {
+//    imgSrc: "/sm/spotify.png",
+//    url: "https://spotify.com"
+//  },
   {
     imgSrc: "/sm/tiktok.png",
     url: "https://tiktok.com"
