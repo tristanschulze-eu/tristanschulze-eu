@@ -24,6 +24,8 @@ Built by Max Wolschlager ([ungut.at](ungut.at))
 
 Designed by Klara Wolschlager (<wolschlagerklara@gmail.com>)
 
+Home page picture by Julia Wesely
+
 :br
 
 ## Legal Disclaimer

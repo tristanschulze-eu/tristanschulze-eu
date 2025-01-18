@@ -21,6 +21,8 @@ Gebaut von Max Wolschlager ([ungut.at](ungut.at))
 
 Designed von Klara Wolschlager (<wolschlagerklara@gmail.com>)
 
+Titelbild von Julia Wesely
+
 :br
 
 ## Rechtliche Hinweise
