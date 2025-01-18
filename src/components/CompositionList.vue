@@ -36,7 +36,7 @@
 </template>
 
 <script setup lang="ts">
-import { groupBy, pick } from 'lodash-es';
+import { groupBy, orderBy, pick } from 'lodash-es';
 
 import type { Composition } from '@/types/concert.ts'
 
@@ -50,9 +50,10 @@ const props = withDefaults(defineProps<Props>(), {
 const expandedCategory = ref<number | string>("");
 
 const compositionsByCategory = computed(() => {
-  const grouped = groupBy(props.compositions, "category");
-  const sorted = pick(grouped, Object.keys(grouped).sort());
-  return sorted;
+  const sorted = orderBy(props.compositions, ["title"], "asc")
+  const grouped = groupBy(sorted, "category");
+  const sortedCategories = pick(grouped, Object.keys(grouped).sort());
+  return sortedCategories;
 });
 
 const getInstrString = (c: Composition) => {
