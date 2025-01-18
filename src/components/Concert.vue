@@ -47,16 +47,17 @@ const displayDate = computed(() => {
 </script>
 
 <style lang="scss">
-.concert .concert__image-container { 
+.concert__image-container { 
   overflow: hidden;
   position: relative;
   border-radius: 1rem;
-
+  aspect-ratio: 1 / 1;
 }
+
 .concert .concert__image { 
   width: 100%;
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
 
 .concert .concert__overlay { 
