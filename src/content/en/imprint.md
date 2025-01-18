@@ -20,7 +20,7 @@ Austria
 
 ## Website Acknowledgement
 
-Built by Max Wolschlager ([ungut.at](ungut.at))
+Built by Max Wolschlager ([ungut.at](https://ungut.at))
 
 Designed by Klara Wolschlager (<wolschlagerklara@gmail.com>)
 
