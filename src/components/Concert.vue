@@ -1,11 +1,11 @@
 <template>
   <div class="concert">
-    <a target="_blank"  :href="props.url">
+    <a target="_blank" :href="props.url">
       <div class="concert__image-container">
         <div class="concert__overlay bg-secondary pa-2">
-          <a target="_blank" :href="props.url">{{ displayUrl }} </a>
+          {{ displayUrl }}
         </div>
-        <nuxt-img class="concert__image" :src="props.image_src" />
+        <nuxt-img class="concert__image" :src="props.image_src"></nuxt-img>
       </div>
     </a>
     <div class="pa-1 mt-3 fs-5">

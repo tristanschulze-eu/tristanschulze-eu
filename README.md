@@ -55,6 +55,7 @@ Template fuer ein Konzert:
 
 ```yml
 ---
+pinned: true # <- um ein konzert als erstes anzuzeigen
 title: My Title
 start_date: 2024-09-06
 image_src: /img/image.png

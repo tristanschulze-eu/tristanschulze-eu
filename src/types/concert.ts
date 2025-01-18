@@ -1,4 +1,5 @@
 interface Concert { 
+  pinned?: boolean;
   image_src: string;
   title: string;
   url: string;
