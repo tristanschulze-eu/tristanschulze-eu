@@ -41,7 +41,7 @@ const props = withDefaults(defineProps<Props>(), {
 })
 const img = useImage()
 const imgUrl = computed(() => {
-  const imgUrl = img(props.src)
+  const imgUrl = img(props.src, {quality: 100})
   return imgUrl
 })
 
