@@ -1,4 +1,4 @@
-::row{.mb-4 gap="1rem"}
+::row{.mb-4 gap="0"}
 ![undefined](/img/about/10987707_874286799285655_8564208899567487865_o.jpg){caption="© Pierre Futsch"}
 
 ![undefined](/img/about/KleinTristan_Baer.jpg){caption="© Herbert Schulze"}
