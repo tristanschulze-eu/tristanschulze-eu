@@ -9,12 +9,12 @@
 :br
 
 ::row{justify-content="center"}
-  :::youtube-player{video-id="JRYX0Aex1iE"}
+  :::youtube-player{video-id="0QCEeE97_RI"}
   :::
 
-  :::youtube-player{video-id="MKp30C3MwVk"}
+  :::youtube-player{video-id="jxmmi_8hbv8"}
   :::
 
-  :::youtube-player{video-id="LAz4dZfABPk"}
+  :::youtube-player{video-id="eqrKRgfIkX0"}
   :::
 ::
