@@ -35,11 +35,11 @@ const links = [
 //  },
   {
     imgSrc: "/sm/facebook.png",
-    url: "https://facebook.com"
+    url: "https://www.facebook.com/search/top?q=tristan%20schulze"
   },
   {
     imgSrc: "/sm/instagram.png",
-    url: "https://instagram.com"
+    url: "https://www.instagram.com/tristan_schulze_musician/"
   },
 //  {
 //    imgSrc: "/sm/spotify.png",
@@ -47,11 +47,11 @@ const links = [
 //  },
   {
     imgSrc: "/sm/tiktok.png",
-    url: "https://tiktok.com"
+    url: "https://www.tiktok.com/@tristan.schulze"
   },
   {
     imgSrc: "/sm/youtube.png",
-    url: "https://youtube.com"
+    url: "https://www.youtube.com/@HTristanSchulze"
   },
 ]
 </script>
