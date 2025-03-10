@@ -5,6 +5,11 @@
         <ContentRenderer class="px-4 py-6" :value="doc" />
       </ContentDoc>
       <composition-list :compositions="compositions" class=""/>
+      <div class="mt-4 mx-auto ta-center">
+        <a href="/works/Werkverzeichnis.ods" download >
+          <button>{{ $t('Download Complete List of Works') }}</button>
+        </a>
+      </div>
     </div>
   </div>
 </template>

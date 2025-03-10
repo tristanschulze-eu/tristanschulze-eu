@@ -15,6 +15,7 @@ export default {
       'Title': 'Titel',
       'Instrumentation': 'Besetzung',
       'Material': 'Material',
+      'Download Complete List of Works': 'Download komplettes Werkverzeichnis',
     },
     en: {
       'NEWS&CONCERTS': 'NEWS&CONCERTS',
@@ -28,6 +29,7 @@ export default {
       'Title': 'Title',
       'Instrumentation': 'Instrumentation',
       'Material': 'Material',
+      'Download Complete List of Works': 'Download Complete List of Works',
     },
   }
 }
