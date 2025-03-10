@@ -18,13 +18,13 @@ jobs:
         env:
           NUXT_APP_BASE_URL: /
       - name: copy file via ssh password
-        uses: appleboy/scp-action@v0.1.7
+        uses: Creepios/sftp-action@v1.0.3
         with:
           host: ${{ secrets.IIONOS_SSH_HOST }}
           username: ${{ secrets.IIONOS_SSH_USER }}
           password: ${{ secrets.IIONOS_SSH_PWD }}
-          source: "./.output/public"
-          target: "/"
+          localPath: "./.output/public"
+          remotePath: "/"
   # Deployment job
   deploy:
     # Add a dependency to the build job
