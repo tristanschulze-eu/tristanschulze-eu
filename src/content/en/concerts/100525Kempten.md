@@ -3,10 +3,9 @@ title: Theater in Kempten
 start_date: 2025-05-10T00:00:00.000Z
 image_src: /img/oktoberinkempten2.png
 url: https://theaterinkempten.de/produktion/franz-liszt-symphonieorchester-sopron-3/
-description: Das Theater in Kempten und das Franz Liszt Symphonieorchester aus
-  Sopron bringen unter der Leitung von Tristan Schulze ein besonderes Konzert
-  zur Aufführung, das die enge Verbindung zwischen den Partnerstädten Kempten
-  und Sopron musikalisch zum Ausdruck bringt. Zur Aufführung kommt unter anderem
-  Schulzes (1964) Doppelkonzert für zwei Bratschen und Orchester mit Dénes
-  Ludmány und Péter Kóczán als Solisten.
+description: The Theater in Kempten and the Franz Liszt Symphony Orchestra from
+  Sopron present a special concert under the direction of Tristan Schulze,
+  highlighting the close cultural ties between the partner cities of Kempten and
+  Sopron. Among the works performed is Schulze’s (1964) Double Concerto for Two
+  Violas and Orchestra, featuring Dénes Ludmány and Péter Kóczán as soloists.
 ---
