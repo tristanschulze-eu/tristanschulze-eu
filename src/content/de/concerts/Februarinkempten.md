@@ -1,11 +1,11 @@
 ---
 title: Theater in Kempten
-start_date: 2025-02-02T00:00:00.000Z
+start_date: 2025-02-22T00:00:00.000Z
 image_src: /img/oktoberinkempten2.png
 url: https://theaterinkempten.de/produktion/franz-liszt-symphonieorchester-sopron-2/
-description: "The Theater in Kempten and the Franz Liszt Symphony Orchestra from
-  Sopron presented a memorable concert evening under the direction of Péter
-  Kóczán, honoring the partnership between Kempten and Sopron. Among the works
-  performed was Tristan Schulze’s Concerto for Cello and Brass Quintet –
-  soloist: Dorottya Standi."
+description: "Das Theater in Kempten und das Franz Liszt Symphonieorchester aus
+  Sopron gestalteten unter der Leitung von Péter Kóczán einen eindrucksvollen
+  Konzertabend, der die Partnerschaft zwischen Kempten und Sopron würdigte.
+  Unter anderem wurde Tristan Schulzes Konzert für Violoncello und
+  Blechbläserquintett aufgeführt – Solistin: Dorottya Standi."
 ---
