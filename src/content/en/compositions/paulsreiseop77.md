@@ -6,6 +6,8 @@ instrumentation:
 links:
   - name: Recording
     url: https://www.amazon.de/Pauls-Reise-Stefan-Slupetzky/dp/3854521715
+  - name: Sheet
+    url: https://www.universaledition.com/Werke/Pauls-Reise/P0305064$0
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
