@@ -1,5 +1,5 @@
 ---
-title: Flute Concerto - Opus 65 (13')
+title: Flute Concerto for Wind Orchestra - Opus 65 (13')
 category: Concerto
 instrumentation:
   - Solo Alto Flute/Flute/Picc, 2Cl, Altocl, Basscl, 2Altsax, Tsax, Barsax, 4Hn,

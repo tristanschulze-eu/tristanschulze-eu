@@ -1,5 +1,5 @@
 ---
-title: Flötenkonzert - Opus 65 (13')
+title: Flötenkonzert für Blasorchester - Opus 65 (13')
 category: Instrumentalkonzert
 instrumentation:
   - Solo Altfl/Gr.Fl/Picc
