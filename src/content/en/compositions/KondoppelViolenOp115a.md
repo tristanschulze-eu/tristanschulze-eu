@@ -1,15 +1,16 @@
 ---
-__error__:
-  name: YAMLParseError
-  code: BLOCK_AS_IMPLICIT_KEY
-  message: |
-    A block sequence may not be used as an implicit map key at line 8, column 1:
-
-        url: https://www.youtube.com/watch?v=AYOo7wNYSmc
-     - name: Sheet
-    ^
-  pos:
-    - 230
+title: Double Concerto für two Violas and String Quintet - Opus 115a (18')
+category: Instrumentalkonzert
+instrumentation:
+  - 2 Solo Violas, String Quintet
+links:
+  - name: Recording
+    url: https://www.youtube.com/watch?v=ZCLdQCqQwxY
+  - name: Sheet
+    url: https://www.universaledition.com/en/Works/Double-Concerto-for-Two-Violas-and-String-Quintet/P0300929
+description: |
+  Lorem ipsum dolor sit amed and so on
+  and so forth.
     - 231
   linePos:
     - line: 8
