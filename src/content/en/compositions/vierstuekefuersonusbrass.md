@@ -1,19 +1,14 @@
 ---
-__error__:
-  name: YAMLParseError
-  code: BLOCK_AS_IMPLICIT_KEY
-  message: |
-    A block sequence may not be used as an implicit map key at line 8, column 1:
-
-        url: https://www.sonusbrass.com/multimedia/insieme-cd/
-     - name: Sheet
-    ^
-  pos:
-    - 189
-    - 190
-  linePos:
-    - line: 8
-      col: 1
-    - line: 8
-      col: 2
+title: Four Pieces for Sonus Brass (9')
+category: Chamber Music
+instrumentation:
+  - 2Tr, Hn, Tb, Tuba
+links:
+  - name: Recording
+    url: https://www.sonusbrass.com/multimedia/insieme-cd/
+  - name: Sheet
+    url: https://www.universaledition.com/Werke/Four-pieces-for-Sonus-Brass/P0306939
+description: |
+  Lorem ipsum dolor sit amed and so on
+  and so forth.
 ---
