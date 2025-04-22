@@ -1,5 +1,5 @@
 ---
-title: The Barber of Seville Ouverture, by G. Rossini (4')
+title: The Barber of Seville Ouverture, by G. Rossini (3')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello
