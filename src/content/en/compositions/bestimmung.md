@@ -7,7 +7,7 @@ links:
   - name: Recording
     url: https://www.youtube.com/watch?v=6_XU_ReMRfk
   - name: Sheet
-    url: https://www.universaledition.com/Werke/Bestimmung-fuer-hohe-Stimme-und-Streichquintett/P0301905$0
+    url: https://www.universaledition.com/Werke/Bestimmung-fuer-hohe-Stimme-und-Streichquintett/P0301905
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
