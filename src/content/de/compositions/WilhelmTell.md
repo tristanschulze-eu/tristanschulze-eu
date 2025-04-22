@@ -1,5 +1,5 @@
 ---
-title: Wilhelm Tell Ouvertüre
+title: Wilhelm Tell Ouvertüre (4')
 category: Kammermusik
 instrumentation:
   - Violine I, Violine II und Violoncello
