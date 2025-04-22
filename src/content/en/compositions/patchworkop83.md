@@ -6,6 +6,8 @@ instrumentation:
 links:
   - name: Recording
     url: https://www.amazon.de/Patchwork-Eine-Familienoper-Tristan-Schulze/dp/B072WR36GL
+  - name: Sheet
+    url: https://www.universaledition.com/Werke/Patchwork-Eine-Familienoper-Opus-83/P0304895
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
