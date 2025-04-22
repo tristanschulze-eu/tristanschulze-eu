@@ -5,9 +5,9 @@ instrumentation:
   - Narrator, 2/2/2/2 4/3/3/1, Timp+3, Hp, Strings
 links:
   - name: Recording
-    url: https://www.amazon.de/Pauls-Reise-Stefan-Slupetzky/dp/3854521715
+    url: https://youtu.be/B04Hh29UuUw
   - name: Sheet
-    url: https://www.universaledition.com/Werke/Pauls-Reise/P0305064$0
+    url: https://www.universaledition.com/Werke/Pauls-Reise/P0305064
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
