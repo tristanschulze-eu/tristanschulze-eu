@@ -1,6 +1,6 @@
 ---
 title: Double Concerto für two Violas and String Quintet - Opus 115a (18')
-category: Instrumentalkonzert
+category: Concerto
 instrumentation:
   - 2 Solo Violas, String Quintet
 links:
