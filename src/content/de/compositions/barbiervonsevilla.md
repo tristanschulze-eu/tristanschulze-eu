@@ -1,5 +1,5 @@
 ---
-title: Der Barbier von Sevilla Ouvertüre
+title: Der Barbier von Sevilla Ouvertüre (3')
 category: Kammermusik
 instrumentation:
   - Violine I, Violine II und Violoncello
