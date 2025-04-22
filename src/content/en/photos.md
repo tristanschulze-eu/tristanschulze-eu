@@ -11,10 +11,10 @@
 
 ![undefined](/img/photos/TristanSchulze-7.jpg){height="300px" caption="© Julia Wesely"}
 
-![undefined](/img/photos/Standbild2025-01-05105934_1.1.2.jpg){height="300px" caption="© "}
+![undefined](/img/photos/Standbild2025-01-05105934_1.1.2.jpg){height="300px" caption="© Klemen Adamlje"}
 
-![undefined](/img/photos/Standbild2025-01-05105934_1.1.4.jpg){height="300px" caption="© "}
+![undefined](/img/photos/Standbild2025-01-05105934_1.1.4.jpg){height="300px" caption="© Klemen Adamlje"}
 
-![undefined](/img/photos/Standbild2025-01-05105934_1.1.5.jpg){height="300px" caption="© "}
+![undefined](/img/photos/Standbild2025-01-05105934_1.1.5.jpg){height="300px" caption="© Klemen Adamlje"}
 
 ::
