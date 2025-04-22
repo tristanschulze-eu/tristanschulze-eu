@@ -1,5 +1,5 @@
 ---
-title: The 1st Movement of 5th Symphonie, by L.v.Beethoven
+title: The 1st Movement of 5th Symphonie, by L.v.Beethoven (7')
 category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello
