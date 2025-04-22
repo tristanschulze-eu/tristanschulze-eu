@@ -1,6 +1,6 @@
 ---
-title: Wilhelm Tell Ouvertre, by G. Rossini
-category: Solo Instruments
+title: Wilhelm Tell Ouverture, by G. Rossini (4')
+category: Chamber Music
 instrumentation:
   - Violin I, Violin II and Violoncello
 links:
