@@ -6,5 +6,5 @@
     ::::
   :::
 
-  ![undefined](/img/contact/KempinskiTISVienna2021_301.jpg){height="500px" caption="© Copyright"}
+  ![undefined](/img/contact/KempinskiTISVienna2021_301.jpg){height="500px" caption="© Claes Bech-Poulsen"}
 ::
