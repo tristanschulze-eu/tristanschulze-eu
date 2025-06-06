@@ -1,5 +1,5 @@
 ---
-title: The magician in the lotus blossom - Opus 15, No.4 (3')
+title: The Magician in the Lotus Blossom - Opus 15, No.4 (3')
 category: Chamber Music
 instrumentation:
   - 2 Violoncelli
