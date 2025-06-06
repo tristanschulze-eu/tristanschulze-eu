@@ -5,9 +5,9 @@ instrumentation:
   - 2 Violoncelli
 links:
   - name: Recording
-    url: https://youtu.be/8YX7SZRbrts
+    url: https://youtu.be/Kwxm3YiXjUY
   - name: Sheet
-    url: https://www.universaledition.com/Werke/Suite-Nr.1-G-Dur-BWV-1007/P0315352
+    url: https://www.universaledition.com/Werke/Valse-triste-que-n-est-pas-trop-triste/P0315487
 description: |
   Arr.
 ---
