@@ -1,9 +1,8 @@
 ---
 title: Wiener Konzertvereinigung
-start_date: 2025-04-06
+start_date: 2026-05-17
 image_src: /img/konzertvereinigung.png
-url: https://konzerthaus.at/konzert/eventid/62635
+url: https://konzerthaus.at/kalender?gad_source=1&gad_campaignid=7761568743&gbraid=0AAAAACmh2EzwuO9eqsiVYBzEvnuuprF_W&gclid=CjwKCAjwo4rCBhAbEiwAxhJlCfB0NIyYfxvCw4Zswitky-oB44ST5L0uMIvqiRSsXhlGv0sQMrWojxoC_HoQAvD_BwE#month=5&year=2026$0
 description: >
-  On Sunday, April 06, 2025, the Wiener Konzertvereinigung will perform at the
-  Mozart-Saal at 7:30 PM. Under the direction of Tristan Schulze.
+  Wiener Konzertvereinigung plays for the first time Carmina Burana in Vienna Konzerthaus.
 ---
