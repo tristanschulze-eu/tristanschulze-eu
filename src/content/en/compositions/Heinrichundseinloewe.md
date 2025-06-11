@@ -1,6 +1,6 @@
 ---
 title: Henry and his  Lion, Text by Micaela v. Marcard
-category: Chamber Music
+category: Orchestra and Narrator
 instrumentation:
   - Narrator, Fl, Ob, Basscl, Bs, Tp, Hn, Tb, Tuba, Timp, Piano, Strings
 links:
