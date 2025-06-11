@@ -1,6 +1,6 @@
 ---
 title: Heinrich und sein Löwe, Text v. Micaela v. Marcard
-category: Kammermusik
+category: Orchester und Sprecher
 instrumentation:
   - Sprecher Fl, Ob, Basskl, Fg, Tr, Hn, Pos, Tb, Pk, Klav, Streicher
 links:
