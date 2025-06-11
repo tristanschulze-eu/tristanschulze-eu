@@ -1,5 +1,5 @@
 ---
-title: Bach a due Bach Suite G-Dur mit einer 2. Stimme
+title: Bach a due Bach Suite G-Dur mit einer 2. Stimme (17')
 category: Kammermusik
 instrumentation:
   - 2 Violoncelli
