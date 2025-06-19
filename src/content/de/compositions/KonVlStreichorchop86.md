@@ -6,7 +6,9 @@ instrumentation:
   - Streicher
 links:
   - name: Aufnahme
-    url: https://shop.orf.at/oe1/de/cd/klassik/2542/academia-allegro-vivo-quasi-una-fantasia
+    url: https://youtu.be/O6Po2xj-5U0?si=3ryOt0iS7iKuAsvH
+  - name: Noten
+    url: https://www.universaledition.com/Werke/Konzert-fuer-Violine-und-Streichorchester/P0318562
 description: |
   Lorem ipsum dolor sit amed and so on
   and so forth.
