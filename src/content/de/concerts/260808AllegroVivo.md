@@ -4,5 +4,5 @@ start_date: 2026-08-08
 image_src: /img/allegrovivoimg.png
 url: https://www.allegro-vivo.at/de/events/praeludium-3/
 description: >
-  Vahid Khadem-Missagh and Alexander Swete perform Tristan Schulze's Double Concerto for Violin, Guitar and String Orchestra for the first time. The concert will be in Stift Altenburg.
+  Vahid Khadem-Missagh und Alexander Swete spielen gemeinsam mit der Academia Allegro Vivo die Uraufführung meines Doppelkonzertes für Violine, Gitarre und Streichorchester im Stift Altenburg.
 ---
