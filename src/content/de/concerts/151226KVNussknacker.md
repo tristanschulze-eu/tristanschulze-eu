@@ -1,9 +1,8 @@
 ---
-title: Wiener Konzertvereinigung
-start_date: 2025-04-06
+title: Nussknacker - Wiener Konzertvereinigung 
+start_date: 2026-12-15
 image_src: /img/konzertvereinigung.png
-url: https://konzerthaus.at/konzert/eventid/62635
+url: https://konzerthaus.at/de/programm-und-karten/wiener-konzertvereinigung-lemberg-ometzberger-schulze/64187
 description: >
-  Am Sonntag, den 06. April 2025, wird die Wiener Konzertvereinigung um 19:30
-  Uhr im Mozart-Saal auftreten. Unter der Leitung von Tristan Schulze.
+  Im nächsten Konzert der Wiener Konzertvereinigung im Mozartsaal des Konzerthauses werden Werke von Gounod, J.S.Bach, Tristan Schulze, Engelbert Humperdinck und Pjotr Tschaikowski zu hören sein.
 ---
