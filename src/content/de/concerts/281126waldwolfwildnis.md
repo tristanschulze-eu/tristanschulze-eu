@@ -1,5 +1,5 @@
 ---
-title: Ausstellungseröffnung: Wald Wolf Wildnis
+title: Ausstellungseröffnung Wald Wolf Wildnis
 start_date: 2026-11-28 
 image_src: /img/waldwolfwildnis.png
 url: https://www.museum-bautzen.de/museum/aktuelles/vernissage-wald-wolf-wildnis
